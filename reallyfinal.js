@@ -9,7 +9,8 @@ lib.ssMetadata = [
 		{name:"reallyfinal_atlas_4", frames: [[0,0,1080,720],[0,722,1080,720]]},
 		{name:"reallyfinal_atlas_5", frames: [[0,722,1080,720],[0,0,1080,720]]},
 		{name:"reallyfinal_atlas_6", frames: [[0,0,1080,720],[0,722,1080,720]]},
-		{name:"reallyfinal_atlas_7", frames: [[1104,1419,77,59],[112,1584,110,8],[224,1584,110,8],[336,1584,110,8],[741,1590,110,8],[1536,1568,510,2],[0,1570,510,2],[512,1566,510,2],[1024,1568,510,2],[611,1570,31,31],[1262,1495,13,13],[102,1169,99,108],[417,1455,68,47],[963,1246,119,87],[478,1229,8,8],[796,1138,128,92],[125,1594,33,12],[796,938,76,76],[1633,1492,40,30],[0,1452,77,59],[1613,1455,54,35],[940,1321,13,12],[677,1602,17,15],[2041,156,4,4],[1114,1509,11,11],[813,1600,16,20],[1386,1013,21,14],[347,1455,68,47],[2034,1572,11,17],[1268,1265,119,87],[2040,681,8,8],[1416,815,52,49],[2041,121,5,5],[775,1514,33,12],[160,1594,33,12],[853,1590,110,8],[965,1592,110,8],[1077,1592,110,8],[1189,1572,110,8],[1024,1544,510,2],[0,1550,510,2],[1536,1544,510,2],[512,1542,510,2],[1993,1497,31,31],[1028,1232,24,11],[966,1602,12,15],[929,1495,15,15],[1770,1484,29,22],[182,1049,24,12],[1724,1320,24,11],[1554,1367,48,44],[1084,1246,69,35],[620,1174,99,108],[1612,1360,93,93],[1086,1286,95,95],[1985,1318,13,13],[796,1016,76,76],[748,1455,41,30],[1478,1443,77,59],[946,1480,54,35],[147,1452,66,63],[1612,1287,17,20],[1631,1176,15,20],[913,1600,16,16],[1752,1231,19,11],[1790,1592,18,34],[2041,21,7,7],[75,1594,23,20],[980,1602,13,12],[715,1602,17,15],[663,1482,20,27],[2041,168,4,4],[1912,1511,11,11],[403,1594,16,20],[1925,1592,25,22],[1482,1029,132,93],[854,1600,21,14],[2041,30,7,7],[487,1455,68,47],[1025,1602,13,12],[2034,1591,11,17],[1631,1231,119,87],[1567,1445,8,8],[1992,985,52,49],[2041,135,5,5],[2041,142,5,5],[926,1138,128,92],[230,1594,33,12],[1902,239,3,3],[1854,1592,42,14],[195,1594,33,12],[626,1482,35,35],[1952,1592,19,19],[1301,1572,110,8],[965,1572,110,8],[1902,244,3,3],[1077,1572,110,8],[1413,1572,110,8],[1134,1480,35,35],[2016,1297,24,19],[0,1546,510,2],[448,1574,28,27],[191,1353,10,12],[2041,234,3,3],[1024,1548,510,2],[859,1495,33,33],[2004,1572,28,28],[191,1339,10,12],[943,702,24,4],[969,702,24,4],[1536,1548,510,2],[2041,244,3,3],[1020,702,23,4],[512,1546,510,2],[894,1495,33,33],[478,1574,27,27],[191,1367,10,12],[995,702,23,4],[1045,702,23,4],[2041,239,3,3],[677,1570,30,30],[1992,1128,16,4],[1184,1170,14,4],[1860,915,19,3],[884,702,29,4],[949,1602,15,15],[1379,1354,97,93],[1222,1084,48,44],[1860,878,70,35],[1167,1176,99,108],[1478,1367,74,74],[2044,318,1,1],[1932,878,37,37],[2016,1229,32,32],[311,1594,18,18],[1255,1063,17,16],[1557,1445,8,8],[1612,1309,8,8],[416,1318,8,8],[2041,57,7,6],[1969,1360,74,74],[685,1455,61,45],[1706,1592,26,26],[455,922,24,14],[265,1594,25,15],[2025,1128,21,67],[1616,1029,21,67],[1762,1592,26,24],[870,1419,74,74],[1637,1592,27,26],[1171,1480,10,10],[735,1502,10,10],[1171,1492,10,10],[723,1502,10,10],[1475,378,24,70],[210,1379,70,27],[1002,1480,70,27],[1776,1103,74,26],[685,1502,36,10],[963,1232,63,10],[2041,0,7,9],[1557,1492,74,19],[1666,1592,38,18],[557,1482,67,21],[748,1491,67,21],[1734,1592,26,26],[931,1600,16,16],[292,1594,17,20],[1801,1360,88,88],[1616,1098,28,32],[549,1309,63,10],[1891,1438,63,10],[1056,1138,109,106],[182,938,24,70],[1378,941,24,70],[374,1121,121,106],[1959,1497,32,32],[182,1010,30,37],[721,1174,69,52],[1117,1383,58,27],[1074,1480,58,27],[794,1415,74,74],[1999,681,39,10],[1374,1510,33,10],[497,1121,46,8],[1142,1084,72,10],[2003,1318,37,37],[1508,0,397,231],[307,1164,64,61],[2026,1497,22,23],[0,1594,23,23],[50,1594,23,22],[25,1594,23,23],[1359,1449,77,59],[512,1395,395,18],[512,1375,395,18],[397,1435,395,18],[0,1412,395,18],[397,1415,395,18],[0,1432,395,18],[0,938,180,124],[1085,1602,13,12],[1100,1602,13,12],[1115,1602,13,12],[1130,1602,13,12],[1070,1602,13,12],[1040,1602,13,12],[1055,1602,13,12],[1082,480,389,227],[215,702,269,172],[584,1016,114,114],[1142,1041,111,41],[2041,65,5,6],[2041,73,5,6],[2041,253,3,2],[2041,81,5,6],[2041,105,5,6],[2041,89,5,6],[2041,97,5,6],[1274,882,6,6],[1274,890,6,6],[2046,234,2,3],[2041,113,5,6],[2041,149,5,5],[1502,282,2,2],[2046,239,2,3],[1274,898,6,5],[2047,201,1,3],[2041,48,7,7],[1274,866,6,6],[1274,874,6,6],[1070,702,6,5],[2047,176,1,3],[2047,161,1,3],[2041,300,2,1],[2041,249,3,2],[1902,249,3,2],[1902,306,2,1],[2041,261,2,2],[1902,265,2,2],[2045,272,3,1],[2045,275,3,1],[2045,291,1,2],[2041,306,2,1],[1502,319,1,1],[2047,318,1,1],[1505,319,1,1],[1902,273,2,2],[1902,309,2,1],[1502,278,2,2],[1902,277,2,2],[2041,277,2,2],[2047,196,1,3],[2047,191,1,3],[1502,310,2,1],[1902,253,3,2],[1502,250,3,2],[2045,278,3,1],[1902,269,2,2],[2041,269,2,2],[1902,281,2,2],[1502,270,2,2],[421,1594,16,20],[2047,186,1,3],[2045,269,3,1],[2045,281,3,1],[2041,281,2,2],[1902,315,2,1],[1502,313,2,1],[2046,248,2,2],[2047,206,1,2],[2045,307,1,2],[1502,286,2,1],[1902,297,2,1],[1502,292,2,1],[1902,303,2,1],[2047,214,1,2],[2045,303,1,2],[2041,291,2,1],[1902,300,2,1],[2041,273,2,2],[1502,254,2,2],[2046,252,2,2],[2041,294,2,1],[2045,299,1,2],[2047,171,1,3],[2047,166,1,3],[2045,260,3,1],[2041,288,2,1],[721,1232,119,87],[2047,218,1,2],[2041,303,2,1],[2041,285,2,1],[1502,289,2,1],[2041,309,2,1],[2041,257,2,2],[2046,256,2,2],[2041,315,1,2],[1502,304,2,1],[1902,288,2,1],[1902,257,2,2],[1502,274,2,2],[2041,312,2,1],[1502,316,1,1],[2044,315,1,1],[2047,315,1,1],[1505,316,1,1],[2047,226,1,2],[2041,297,2,1],[1902,291,2,1],[1502,295,2,1],[2046,244,2,2],[1502,258,2,2],[1902,261,2,2],[2047,230,1,2],[1902,312,2,1],[1502,307,2,1],[2045,295,1,2],[2047,210,1,2],[2045,311,1,2],[1502,298,2,1],[1902,294,2,1],[1902,285,2,1],[2047,222,1,2],[2045,287,1,2],[2047,181,1,3],[2047,156,1,3],[2045,266,3,1],[2045,263,3,1],[2045,284,3,1],[1502,301,2,1],[1502,266,2,2],[1502,262,2,2],[2041,265,2,2],[1902,318,1,1],[1082,0,424,248],[796,1096,424,40],[1222,1134,424,40],[208,1164,97,112],[884,709,396,77],[486,702,396,77],[486,781,396,77],[1010,866,130,228],[878,866,130,228],[1867,464,130,228],[1907,232,132,230],[1907,0,132,230],[1282,709,132,230],[1647,920,322,76],[304,1328,208,15],[0,1387,208,15],[376,938,322,76],[1167,1138,45,30],[1274,941,102,76],[1557,1413,45,30],[1142,866,130,173],[1082,250,391,228],[700,938,94,234],[0,702,213,234],[215,876,159,179],[1508,233,392,229],[1707,1454,61,59],[1770,1454,29,28],[690,1284,29,28],[1973,1572,29,28],[895,1600,16,16],[0,1064,206,103],[376,1016,206,103],[1647,998,206,103],[1274,1029,206,103],[909,1383,206,34],[304,1375,206,35],[1475,464,390,228],[884,788,390,76],[486,860,390,76],[549,1239,68,68],[1404,1001,10,10],[1155,1276,8,8],[695,1348,389,25],[549,1321,389,25],[304,1348,389,25],[1612,1333,389,25],[1648,1103,126,126],[557,1455,126,25],[1475,250,25,126],[1473,694,385,224],[1855,998,135,135],[283,1452,62,62],[455,876,27,44],[1999,571,35,62],[1999,635,44,44],[282,1379,19,31],[208,1057,164,105],[99,1279,90,106],[0,1278,97,103],[0,1169,100,107],[497,1132,121,105],[1999,464,49,105],[1971,878,77,105],[1416,709,50,104],[1416,920,229,107],[1776,1135,117,107],[1707,1360,92,92],[1510,1265,100,100],[1438,1449,35,35],[203,1278,99,99],[1438,1486,34,34],[1860,694,182,182],[112,1574,110,8],[1749,1572,110,8],[0,1574,110,8],[224,1574,110,8],[0,1554,510,2],[512,1550,510,2],[1024,1552,510,2],[0,1558,510,2],[1171,1602,11,11],[909,1375,10,6],[709,1570,30,30],[514,1328,25,18],[1158,1602,11,11],[933,1375,10,6],[921,1375,10,6],[1280,1449,77,59],[367,1594,16,20],[741,1600,16,20],[842,1232,119,87],[1861,1572,110,8],[1525,1572,110,8],[336,1574,110,8],[1637,1572,110,8],[1536,1552,510,2],[512,1554,510,2],[1024,1556,510,2],[1536,1556,510,2],[1389,1265,119,87],[2016,1263,32,32],[191,1279,9,28],[191,1309,9,28],[1956,1438,11,10],[1474,1513,110,8],[1770,1511,110,8],[1262,1510,110,8],[1002,1509,110,8],[1536,1536,510,2],[1145,1602,11,11],[0,1534,510,2],[512,1570,31,31],[1938,1511,11,11],[2041,186,4,4],[2041,210,4,4],[2041,222,4,4],[512,1534,510,2],[545,1570,31,31],[2041,198,4,4],[2041,180,4,4],[1024,1536,510,2],[578,1570,31,31],[1925,1511,11,11],[2041,216,4,4],[2041,204,4,4],[2041,174,4,4],[2041,192,4,4],[1389,1176,119,87],[2041,128,5,5],[1280,1354,97,93],[1992,1036,48,44],[817,1491,40,30],[1183,1286,77,59],[79,1452,66,64],[1971,985,19,11],[331,1594,16,20],[1898,1592,25,22],[1025,1419,77,59],[349,1594,16,20],[1525,1592,110,8],[1612,1320,110,8],[347,1504,110,8],[940,1335,110,8],[459,1505,110,8],[1024,1532,510,2],[1189,1592,110,8],[1536,1532,510,2],[512,1530,510,2],[1301,1592,110,8],[512,1538,510,2],[1413,1592,110,8],[1404,941,10,28],[1631,1198,10,28],[1675,1492,30,30],[1155,1246,10,28],[1404,971,10,28],[307,1229,119,87],[929,1522,510,2],[1478,1354,29,11],[1052,1335,29,11],[1475,450,31,11],[620,1132,70,35],[1969,1436,77,59],[385,1594,16,20],[1895,1229,119,87],[0,1518,510,2],[853,1570,110,8],[512,1515,110,8],[663,1514,110,8],[741,1570,110,8],[1024,1540,510,2],[0,1538,510,2],[0,1542,510,2],[1536,1540,510,2],[0,1522,510,2],[1594,1124,16,7],[1167,1170,15,4],[915,702,26,4],[1902,233,3,4],[428,1229,31,8],[461,1229,15,7],[946,1419,77,59],[696,1602,17,15],[2041,162,4,4],[1262,1473,16,20],[831,1600,21,14],[995,1602,13,12],[1510,1176,119,87],[1810,1592,42,14],[304,1318,110,8],[1274,1019,110,8],[1482,1124,110,8],[1873,1318,110,8],[929,1526,510,2],[1441,1524,510,2],[0,1526,510,2],[1441,1528,510,2],[376,876,77,59],[0,1530,510,2],[1262,1451,16,20],[1268,1176,119,87],[1077,1582,110,8],[1189,1582,110,8],[1413,1582,110,8],[965,1582,110,8],[0,1562,510,2],[512,1558,510,2],[1536,1560,510,2],[1024,1560,510,2],[1882,1511,28,9],[545,1121,28,9],[1184,1602,11,11],[2041,39,7,7],[2041,11,7,8],[1183,1354,95,95],[1992,1082,48,44],[619,1284,69,35],[1801,1450,77,59],[1557,1455,54,35],[215,1452,66,63],[1255,1041,17,20],[1873,1280,18,34],[2025,1197,20,27],[759,1600,16,20],[1010,1602,13,12],[428,1239,119,87],[1416,866,52,49],[1895,1135,128,92],[1525,1582,110,8],[1301,1582,110,8],[741,1580,110,8],[1637,1582,110,8],[1669,1455,35,35],[1880,1450,77,59],[777,1600,16,20],[853,1580,110,8],[1749,1582,110,8],[1861,1582,110,8],[0,1584,110,8],[512,1562,510,2],[1024,1564,510,2],[1536,1564,510,2],[0,1566,510,2],[644,1570,31,31],[2036,602,10,29],[2036,571,10,29],[1752,1244,119,87],[1891,1360,76,76],[1183,1451,77,59],[1612,1265,17,20],[877,1600,16,16],[1873,1244,18,34],[100,1594,23,20],[2041,228,4,4],[795,1600,16,20],[0,0,1080,700]]}
+		{name:"reallyfinal_atlas_7", frames: [[1818,1936,77,59],[1938,1136,99,108],[1601,1941,68,47],[1794,1769,119,87],[1861,1675,128,92],[547,1717,76,76],[1442,1878,40,30],[697,1941,77,59],[412,1633,54,35],[1531,1941,68,47],[1915,1769,119,87],[724,932,52,49],[1536,2024,510,2],[1024,2030,510,2],[0,2026,510,2],[512,2023,510,2],[1995,1626,48,44],[1904,873,69,35],[634,1686,99,108],[853,1826,93,93],[300,1145,95,95],[1766,1858,76,76],[2003,1515,41,30],[1254,1938,77,59],[1404,1669,54,35],[1977,1009,66,63],[1861,1580,132,93],[1671,1941,68,47],[1552,1735,119,87],[724,1034,52,49],[1059,1682,128,92],[1998,1858,35,35],[1991,1718,35,35],[1024,2026,510,2],[1536,2028,510,2],[1520,1878,33,33],[0,2030,510,2],[512,2027,510,2],[1998,1895,33,33],[754,1826,97,93],[1404,1623,48,44],[1518,427,70,35],[735,1689,99,108],[187,1926,74,74],[1476,641,37,37],[1998,1930,32,32],[1922,1858,74,74],[363,1759,61,45],[268,1356,21,67],[2023,128,21,67],[1742,1936,74,74],[2021,211,24,70],[1189,1682,70,27],[957,1744,70,27],[336,1633,74,26],[0,1693,74,19],[1001,1101,67,21],[1070,1101,67,21],[291,1853,88,88],[2021,283,24,70],[2021,355,24,70],[34,1942,32,32],[268,1471,30,37],[993,816,69,52],[1794,1735,58,27],[1345,1878,58,27],[1922,1934,74,74],[2003,1412,37,37],[1518,465,397,231],[1401,1941,64,61],[381,1941,77,59],[948,1898,395,18],[948,1878,395,18],[778,1938,395,18],[948,1918,395,18],[381,1921,395,18],[1345,1921,395,18],[785,702,180,124],[785,872,389,227],[802,1334,269,172],[684,1570,114,114],[381,1853,111,41],[1673,1735,119,87],[1595,215,424,248],[208,1675,424,40],[0,1717,424,40],[967,702,97,112],[1471,1348,396,77],[1073,1341,396,77],[1073,1420,396,77],[1729,1505,130,228],[1597,1505,130,228],[1465,1505,130,228],[0,1356,132,230],[1869,1348,132,230],[134,1356,132,230],[400,932,322,76],[791,1101,208,15],[1179,1803,208,15],[400,1010,322,76],[2003,1451,45,30],[187,1848,102,76],[2003,1483,45,30],[1904,698,130,173],[0,702,391,228],[963,1508,94,234],[587,1334,213,234],[802,1508,159,179],[1082,641,392,229],[1977,1074,61,59],[0,1588,206,103],[476,1570,206,103],[268,1528,206,103],[1059,1577,206,103],[1176,872,206,34],[785,828,206,35],[393,702,390,228],[1471,1427,390,76],[1073,1499,390,76],[1977,873,68,68],[1179,1851,389,25],[547,1799,389,25],[363,1826,389,25],[1179,1824,389,25],[1917,465,126,126],[208,1633,126,25],[2023,0,25,126],[1590,910,385,224],[1267,1577,135,135],[1467,1941,62,62],[268,1425,27,44],[2003,1348,35,62],[1995,1672,44,44],[0,1848,92,92],[1938,1246,100,100],[1405,1878,35,35],[94,1848,91,91],[1078,1776,99,99],[1484,1878,34,34],[0,932,398,211],[1082,427,434,212],[1082,215,511,210],[1191,1126,378,213],[791,1126,398,206],[0,1145,298,209],[400,1101,389,213],[1476,698,426,210],[300,1316,285,210],[1571,1136,365,210],[1709,0,312,209],[1082,0,625,213],[1176,910,412,214],[1024,2034,510,2],[512,2031,510,2],[1536,2032,510,2],[1024,2038,510,2],[94,1941,77,59],[0,1759,119,87],[0,2034,510,2],[512,2035,510,2],[1536,2036,510,2],[0,2038,510,2],[957,1776,119,87],[0,1942,32,32],[0,2018,510,2],[1024,2014,510,2],[512,2015,510,2],[1536,2016,510,2],[1189,1714,119,87],[1667,1824,97,93],[1404,1577,48,44],[2003,1547,40,30],[494,1853,77,59],[1977,943,66,64],[652,1853,77,59],[1536,2012,510,2],[0,2014,510,2],[512,2011,510,2],[512,2019,510,2],[426,1717,119,87],[512,2003,510,2],[1384,872,70,35],[1175,1938,77,59],[1431,1735,119,87],[776,1999,510,2],[1536,2020,510,2],[1024,2018,510,2],[1024,2022,510,2],[0,2022,510,2],[0,2002,510,2],[573,1853,77,59],[1310,1714,119,87],[512,2007,510,2],[0,2006,510,2],[1024,2006,510,2],[0,2010,510,2],[300,1242,77,59],[1024,2010,510,2],[836,1689,119,87],[1024,2042,510,2],[512,2039,510,2],[0,2042,510,2],[1536,2040,510,2],[1570,1824,95,95],[1995,1580,48,44],[476,1528,69,35],[460,1941,77,59],[208,1588,54,35],[1333,1941,66,63],[121,1759,119,87],[724,983,52,49],[1917,593,128,92],[547,1528,35,35],[539,1941,77,59],[512,2043,510,2],[0,2046,510,2],[1024,2046,510,2],[1536,2044,510,2],[242,1759,119,87],[1844,1858,76,76],[618,1941,77,59],[0,0,1080,700]]},
+		{name:"reallyfinal_atlas_8", frames: [[112,139,110,8],[224,146,110,8],[336,146,110,8],[0,149,110,8],[0,8,510,2],[0,12,510,2],[0,0,510,2],[0,4,510,2],[132,16,31,31],[288,250,13,13],[504,177,8,8],[469,201,33,12],[317,252,13,12],[254,238,17,15],[309,50,4,4],[405,192,11,11],[448,222,16,20],[483,227,21,14],[182,249,11,17],[436,46,8,8],[505,126,5,5],[0,197,33,12],[243,202,33,12],[112,149,110,8],[224,156,110,8],[336,156,110,8],[224,86,110,8],[0,16,31,31],[170,236,24,11],[500,243,12,15],[483,243,15,15],[476,153,29,22],[243,188,24,12],[274,237,24,11],[273,250,13,13],[0,211,17,20],[466,227,15,20],[143,238,16,16],[161,249,19,11],[337,176,18,34],[125,218,7,7],[444,181,23,20],[367,252,13,12],[97,240,17,15],[71,181,20,27],[506,235,4,4],[55,219,11,11],[107,218,16,20],[44,181,25,22],[55,232,21,14],[125,227,7,7],[254,255,13,12],[463,249,11,17],[173,268,8,8],[170,216,5,5],[12,233,5,5],[405,205,33,12],[509,57,3,3],[0,181,42,14],[35,205,33,12],[217,209,19,19],[336,86,110,8],[0,79,110,8],[509,67,3,3],[112,79,110,8],[0,89,110,8],[217,188,24,19],[448,76,28,27],[488,260,10,12],[509,52,3,3],[479,46,28,28],[476,260,10,12],[283,50,24,4],[269,265,24,4],[507,100,3,3],[356,266,23,4],[478,76,27,27],[500,260,10,12],[295,266,23,4],[381,266,23,4],[509,62,3,3],[230,16,30,30],[204,169,16,4],[201,223,14,4],[406,269,19,3],[224,48,29,4],[446,244,15,15],[88,270,1,1],[335,212,18,18],[367,234,17,16],[320,266,8,8],[504,197,8,8],[305,224,8,8],[35,197,7,6],[477,105,26,26],[488,133,24,14],[440,205,25,15],[269,176,26,24],[448,105,27,26],[161,262,10,10],[0,263,10,10],[332,262,10,10],[344,262,10,10],[278,212,36,10],[74,169,63,10],[505,105,7,9],[448,133,38,18],[448,153,26,26],[236,238,16,16],[316,212,17,20],[294,16,28,32],[139,169,63,10],[204,176,63,10],[93,206,39,10],[467,215,33,10],[134,206,46,8],[0,169,72,10],[143,181,22,23],[93,181,23,23],[167,181,23,22],[118,181,23,23],[131,256,13,12],[146,256,13,12],[236,256,13,12],[67,257,13,12],[116,256,13,12],[412,255,13,12],[427,255,13,12],[507,76,5,6],[507,84,5,6],[507,173,3,2],[507,92,5,6],[507,165,5,6],[507,149,5,6],[507,157,5,6],[78,232,6,6],[347,232,6,6],[510,16,2,3],[469,181,5,6],[386,234,5,5],[51,241,2,2],[510,21,2,3],[394,212,6,5],[269,255,1,3],[116,240,7,7],[504,207,6,6],[506,227,6,6],[192,181,6,5],[300,241,1,3],[473,196,1,3],[177,265,2,1],[488,149,3,2],[509,72,3,2],[60,267,2,1],[418,196,2,2],[418,200,2,2],[367,231,3,1],[416,241,3,1],[364,262,1,2],[471,268,2,1],[94,270,1,1],[91,270,1,1],[97,270,1,1],[89,214,2,2],[112,269,2,1],[196,236,2,2],[274,216,2,2],[274,220,2,2],[332,252,1,3],[73,251,1,3],[258,269,2,1],[498,149,3,2],[493,149,3,2],[421,241,3,1],[238,209,2,2],[89,210,2,2],[300,237,2,2],[31,211,2,2],[19,219,16,20],[122,249,1,3],[177,220,3,1],[300,246,3,1],[196,240,2,2],[435,269,2,1],[431,269,2,1],[510,30,2,2],[442,255,1,2],[251,268,1,2],[426,241,2,1],[108,263,2,1],[173,262,2,1],[108,266,2,1],[479,255,1,2],[64,268,1,2],[269,260,2,1],[173,265,2,1],[31,215,2,2],[510,38,2,2],[510,34,2,2],[356,262,2,1],[251,264,1,2],[86,232,1,3],[402,212,1,3],[238,213,3,1],[412,252,2,1],[251,256,1,2],[112,266,2,1],[372,231,2,1],[67,254,2,1],[254,269,2,1],[444,176,2,2],[510,42,2,2],[439,269,1,2],[406,266,2,1],[51,245,2,1],[503,149,2,2],[177,216,2,2],[427,269,2,1],[60,270,1,1],[86,237,1,1],[221,258,1,1],[82,270,1,1],[351,258,1,2],[112,263,2,1],[347,258,2,1],[360,262,2,1],[510,26,2,2],[200,181,2,2],[418,192,2,2],[251,260,1,2],[265,269,2,1],[108,269,2,1],[64,264,1,2],[476,255,1,2],[262,269,1,2],[60,264,2,1],[177,262,2,1],[200,185,2,1],[332,257,1,2],[459,261,1,2],[463,244,1,3],[321,50,1,3],[435,219,3,1],[430,219,3,1],[73,248,3,1],[459,265,2,1],[186,205,2,2],[469,196,2,2],[182,205,2,2],[85,270,1,1],[467,16,29,28],[436,16,29,28],[448,46,29,28],[125,238,16,16],[502,215,10,10],[504,187,8,8],[357,176,19,31],[224,106,110,8],[336,96,110,8],[112,99,110,8],[336,106,110,8],[195,259,11,11],[19,211,10,6],[262,16,30,30],[378,192,25,18],[47,258,11,11],[459,268,10,6],[183,268,10,6],[256,216,16,20],[37,219,16,20],[0,99,110,8],[112,89,110,8],[0,109,110,8],[224,96,110,8],[12,241,9,28],[23,241,9,28],[221,261,11,10],[336,66,110,8],[224,66,110,8],[112,59,110,8],[0,59,110,8],[34,258,11,11],[33,16,31,31],[95,257,11,11],[347,246,4,4],[217,252,4,4],[108,257,4,4],[66,16,31,31],[116,249,4,4],[217,246,4,4],[99,16,31,31],[82,257,11,11],[347,252,4,4],[476,249,4,4],[347,240,4,4],[67,248,4,4],[469,189,5,5],[196,246,19,11],[152,216,16,20],[476,177,25,22],[238,216,16,20],[336,166,110,8],[0,49,110,8],[224,56,110,8],[112,49,110,8],[336,56,110,8],[0,159,110,8],[112,159,110,8],[224,166,110,8],[498,16,10,28],[0,233,10,28],[198,16,30,30],[305,234,10,28],[335,232,10,28],[274,224,29,11],[170,223,29,11],[182,210,31,11],[89,218,16,20],[336,76,110,8],[112,69,110,8],[0,69,110,8],[224,76,110,8],[278,202,16,7],[34,241,15,4],[255,48,26,4],[509,46,3,4],[34,248,31,8],[442,261,15,7],[78,240,17,15],[315,50,4,4],[134,216,16,20],[201,230,21,14],[382,252,13,12],[378,176,42,14],[324,36,110,8],[324,16,110,8],[324,26,110,8],[324,46,110,8],[376,212,16,20],[0,119,110,8],[112,119,110,8],[336,126,110,8],[336,116,110,8],[416,244,28,9],[386,241,28,9],[208,259,11,11],[161,238,7,7],[505,116,7,8],[357,209,17,20],[317,176,18,34],[422,176,20,27],[394,219,16,20],[397,252,13,12],[0,129,110,8],[224,126,110,8],[112,109,110,8],[112,129,110,8],[412,219,16,20],[224,116,110,8],[224,136,110,8],[336,136,110,8],[0,139,110,8],[165,16,31,31],[355,231,10,29],[224,230,10,29],[70,210,17,20],[317,234,16,16],[297,176,18,34],[192,188,23,20],[60,258,4,4],[430,222,16,20]]}
 ];
 
 
@@ -35,12 +36,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,5465,3648);
 p.nominalBounds = new cjs.Rectangle(0,0,5323,3549);
 
 
-(lib.CachedTexturedBitmap_1 = function() {
-	this.initialize(img.CachedTexturedBitmap_1);
-}).prototype = p = new cjs.Bitmap();
-p.nominalBounds = new cjs.Rectangle(0,0,2739,1174);
-
-
 (lib.CachedTexturedBitmap_10 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
 	this.gotoAndStop(0);
@@ -49,904 +44,904 @@ p.nominalBounds = new cjs.Rectangle(0,0,2739,1174);
 
 
 (lib.CachedTexturedBitmap_1003 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(1);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1004 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(2);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1005 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(3);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1006 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(4);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1009 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(5);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1015 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(6);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1021 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(7);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1031 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(8);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1047 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(9);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1048 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(10);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1052 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(11);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1054 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(12);
+	this.gotoAndStop(2);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1057 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(13);
+	this.gotoAndStop(3);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1058 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(14);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1062 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(15);
+	this.gotoAndStop(4);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1065 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(16);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1069 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(17);
+	this.gotoAndStop(5);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1070 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(18);
+	this.gotoAndStop(6);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1071 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(19);
+	this.gotoAndStop(7);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1072 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(20);
+	this.gotoAndStop(8);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1080 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(21);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1081 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(22);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1083 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(23);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1084 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(24);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1085 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(25);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1088 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(26);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1089 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(27);
+	this.gotoAndStop(9);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1091 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(28);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1092 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(29);
+	this.gotoAndStop(10);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1093 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(30);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1094 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(31);
+	this.gotoAndStop(11);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1096 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(32);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1098 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(33);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1100 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(34);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1107 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(35);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1108 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(36);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1109 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(37);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1110 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(38);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1113 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(39);
+	this.gotoAndStop(12);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1119 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(40);
+	this.gotoAndStop(13);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1125 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(41);
+	this.gotoAndStop(14);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1131 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(42);
+	this.gotoAndStop(15);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_114 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(43);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1140 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(44);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1149 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(45);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_115 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(46);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1150 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(47);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1151 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(48);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1152 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(49);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1154 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(50);
+	this.gotoAndStop(16);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1155 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(51);
+	this.gotoAndStop(17);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1156 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(52);
+	this.gotoAndStop(18);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1158 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(53);
+	this.gotoAndStop(19);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1159 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(54);
+	this.gotoAndStop(20);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_116 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(55);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1160 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(56);
+	this.gotoAndStop(21);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1161 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(57);
+	this.gotoAndStop(22);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1162 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(58);
+	this.gotoAndStop(23);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1163 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(59);
+	this.gotoAndStop(24);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1164 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(60);
+	this.gotoAndStop(25);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1165 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(61);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1166 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(62);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1167 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(63);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1168 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(64);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1169 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(65);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_117 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(66);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1170 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(67);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1171 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(68);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1172 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(69);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1173 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(70);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1174 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(71);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1175 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(72);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1176 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(73);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1177 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(74);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1178 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(75);
+	this.gotoAndStop(26);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1179 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(76);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_118 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(77);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1180 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(78);
+	this.gotoAndStop(27);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1181 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(79);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1182 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(80);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1183 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(81);
+	this.gotoAndStop(28);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1184 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(82);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1185 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(83);
+	this.gotoAndStop(29);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1186 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(84);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(54);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1187 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(85);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1188 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(86);
+	this.gotoAndStop(30);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1189 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(87);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(56);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_119 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(88);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(57);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1190 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(89);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(58);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1191 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(90);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(59);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1196 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(91);
+	this.gotoAndStop(31);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1197 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(92);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(60);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1198 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(93);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(61);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1199 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(94);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(62);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_120 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(95);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(63);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1200 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(96);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(64);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1201 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(97);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(65);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1202 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(98);
+	this.gotoAndStop(32);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1203 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(99);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(66);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1204 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(100);
+	this.gotoAndStop(33);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1206 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(101);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(67);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1207 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(102);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(68);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_121 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(103);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(69);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1210 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(104);
+	this.gotoAndStop(34);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1211 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(105);
+	this.gotoAndStop(35);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1212 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(106);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(70);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1213 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(107);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(71);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1214 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(108);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(72);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1215 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(109);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(73);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1216 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(110);
+	this.gotoAndStop(36);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_122 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(111);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(74);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1221 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(112);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(75);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1222 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(113);
+	this.gotoAndStop(37);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1223 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(114);
+	this.gotoAndStop(38);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1224 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(115);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(76);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1225 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(116);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(77);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1226 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(117);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(78);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1227 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(118);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(79);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_123 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(119);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(80);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1246 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(120);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(81);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1247 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(121);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(82);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1248 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(122);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(83);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1249 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(123);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(84);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1250 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(124);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(85);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1251 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(125);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(86);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1252 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(126);
+	this.gotoAndStop(39);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1253 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(127);
+	this.gotoAndStop(40);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1254 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(128);
+	this.gotoAndStop(41);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1255 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(129);
+	this.gotoAndStop(42);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -959,3227 +954,3240 @@ p.nominalBounds = new cjs.Rectangle(0,0,2623,1400);
 
 (lib.CachedTexturedBitmap_1257 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(130);
+	this.gotoAndStop(43);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1258 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(131);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(87);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1259 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(132);
+	this.gotoAndStop(44);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1260 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(133);
+	this.gotoAndStop(45);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1261 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(134);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(88);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1262 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(135);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(89);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1263 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(136);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(90);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1265 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(137);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(91);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1266 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(138);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(92);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1267 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(139);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(93);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1268 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(140);
+	this.gotoAndStop(46);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1269 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(141);
+	this.gotoAndStop(47);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1270 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(142);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(94);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1271 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(143);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(95);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1272 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(144);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(96);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1274 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(145);
+	this.gotoAndStop(48);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1275 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(146);
+	this.gotoAndStop(49);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1276 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(147);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(97);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1277 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(148);
+	this.gotoAndStop(50);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1278 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(149);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(98);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1279 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(150);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(99);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1280 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(151);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(100);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1281 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(152);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(101);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1282 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(153);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(102);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1285 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(154);
+	this.gotoAndStop(51);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1286 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(155);
+	this.gotoAndStop(52);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1287 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(156);
+	this.gotoAndStop(53);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1288 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(157);
+	this.gotoAndStop(54);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1290 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(158);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(103);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1291 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(159);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(104);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1292 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(160);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(105);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1293 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(161);
+	this.gotoAndStop(55);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1294 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(162);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(106);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1296 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(163);
+	this.gotoAndStop(56);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1297 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(164);
+	this.gotoAndStop(57);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1298 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(165);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(107);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1299 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(166);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(108);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1300 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(167);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(109);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1301 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(168);
+	this.gotoAndStop(58);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1303 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(169);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(110);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1304 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(170);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(111);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1305 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(171);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1306 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(172);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(112);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1308 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(173);
+	this.gotoAndStop(59);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1309 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(174);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1310 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(175);
+	this.gotoAndStop(60);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1312 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(176);
+	this.gotoAndStop(61);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1313 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(177);
+	this.gotoAndStop(62);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1314 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(178);
+	this.gotoAndStop(63);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1315 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(179);
+	this.gotoAndStop(64);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1316 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(180);
+	this.gotoAndStop(65);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1317 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(181);
+	this.gotoAndStop(66);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1318 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(182);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(113);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1319 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(183);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(114);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1320 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(184);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(115);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1321 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(185);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(116);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1322 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(186);
+	this.gotoAndStop(67);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1323 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(187);
+	this.gotoAndStop(68);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1324 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(188);
+	this.gotoAndStop(69);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1325 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(189);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(117);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1326 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(190);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(118);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1327 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(191);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(119);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1328 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(192);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(120);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_133 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(193);
+	this.gotoAndStop(70);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1331 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(194);
+	this.gotoAndStop(71);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1332 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(195);
+	this.gotoAndStop(72);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1337 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(196);
+	this.gotoAndStop(73);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1338 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(197);
+	this.gotoAndStop(74);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1340 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(198);
+	this.gotoAndStop(75);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1341 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(199);
+	this.gotoAndStop(76);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1342 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(200);
+	this.gotoAndStop(77);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1351 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(201);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(121);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1365 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(202);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(122);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1368 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(203);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(123);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1369 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(204);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(124);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1374 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(205);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(125);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1387 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(206);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(126);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1392 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(207);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(127);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1393 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(208);
+	this.gotoAndStop(78);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1394 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(209);
+	this.gotoAndStop(79);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1395 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(210);
+	this.gotoAndStop(80);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1396 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(211);
+	this.gotoAndStop(81);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1397 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(212);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(128);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1398 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(213);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(129);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1399 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(214);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(130);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1400 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(215);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(131);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1401 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(216);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(132);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1402 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(217);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(133);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1403 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(218);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(134);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1404 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(219);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(135);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1405 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(220);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(136);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1406 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(221);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(137);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1407 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(222);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(138);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1408 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(223);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(139);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1409 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(224);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(140);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1410 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(225);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(141);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1411 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(226);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(142);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1412 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(227);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(143);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1413 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(228);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(144);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1414 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(229);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(145);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1415 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(230);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(146);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1416 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(231);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(147);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1417 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(232);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(148);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1418 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(233);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(149);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1419 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(234);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(150);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1420 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(235);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(151);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1421 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(236);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(152);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1422 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(237);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(153);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1423 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(238);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(154);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1424 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(239);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(155);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1428 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(240);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(156);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1429 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(241);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(157);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1434 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(242);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(158);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1435 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(243);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(159);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1440 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(244);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(160);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1441 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(245);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(161);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1442 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(246);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(162);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1448 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(247);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(163);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1454 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(248);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(164);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1456 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(249);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(165);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1457 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(250);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(166);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1458 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(251);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(167);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1459 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(252);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(168);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1460 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(253);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(169);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1461 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(254);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(170);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1462 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(255);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(171);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1463 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(256);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(172);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1464 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(257);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(173);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1465 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(258);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(174);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1466 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(259);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(175);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1467 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(260);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(176);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1468 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(261);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(177);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_147 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(262);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(178);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1470 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(263);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(179);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1471 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(264);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(180);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1472 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(265);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(181);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1476 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(266);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(182);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1484 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(267);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(183);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1486 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(268);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(184);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1488 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(269);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(185);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1501 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(270);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(186);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1509 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(271);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(187);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1510 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(272);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(188);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1511 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(273);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(189);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1517 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(274);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(190);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1518 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(275);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(191);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1520 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(276);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(192);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1522 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(277);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(193);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1524 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(278);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(194);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1525 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(279);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(195);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1528 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(280);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(196);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1529 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(281);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(197);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1530 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(282);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(198);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1532 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(283);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(199);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1534 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(284);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(200);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1535 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(285);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(201);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1536 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(286);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(202);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1537 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(287);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(203);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1539 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(288);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(204);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_154 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(289);
+	this.gotoAndStop(82);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1543 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(290);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(205);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1544 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(291);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(206);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1545 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(292);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(207);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1546 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(293);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(208);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1547 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(294);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(209);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1548 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(295);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(210);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1549 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(296);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(211);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1550 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(297);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(212);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1552 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(298);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(213);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1553 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(299);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(214);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1554 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(300);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(215);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1555 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(301);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(216);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1558 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(302);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(217);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1560 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(303);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(218);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1561 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(304);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(219);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1562 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(305);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(220);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1563 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(306);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(221);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1565 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(307);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(222);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1566 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(308);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(223);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1567 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(309);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(224);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1568 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(310);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(225);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1569 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(311);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(226);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1570 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(312);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(227);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1571 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(313);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(228);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1572 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(314);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(229);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1573 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(315);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(230);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1574 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(316);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(231);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1575 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(317);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(232);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1576 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(318);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(233);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1577 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(319);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(234);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1578 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(320);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(235);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1579 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(321);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(236);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1580 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(322);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(237);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1581 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(323);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(238);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1582 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(324);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(239);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1583 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(325);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(240);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1584 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(326);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(241);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1585 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(327);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(242);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1586 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(328);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(243);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1587 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(329);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(244);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1588 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(330);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(245);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1589 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(331);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(246);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1590 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(332);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(247);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1591 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(333);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(248);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1592 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(334);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(249);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1593 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(335);
+	this.gotoAndStop(83);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1594 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(336);
+	this.gotoAndStop(84);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1595 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(337);
+	this.gotoAndStop(85);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1596 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(338);
+	this.gotoAndStop(86);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1597 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(339);
+	this.gotoAndStop(87);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1598 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(340);
+	this.gotoAndStop(88);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1599 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(341);
+	this.gotoAndStop(89);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1600 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(342);
+	this.gotoAndStop(90);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1601 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(343);
+	this.gotoAndStop(91);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1602 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(344);
+	this.gotoAndStop(92);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1603 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(345);
+	this.gotoAndStop(93);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1604 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(346);
+	this.gotoAndStop(94);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1605 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(347);
+	this.gotoAndStop(95);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1606 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(348);
+	this.gotoAndStop(96);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1607 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(349);
+	this.gotoAndStop(97);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1608 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(350);
+	this.gotoAndStop(98);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1609 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(351);
+	this.gotoAndStop(99);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1610 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(352);
+	this.gotoAndStop(100);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1611 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(353);
+	this.gotoAndStop(101);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1612 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(354);
+	this.gotoAndStop(102);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1613 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(355);
+	this.gotoAndStop(103);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1614 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(356);
+	this.gotoAndStop(104);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1616 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(357);
+	this.gotoAndStop(105);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1617 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(358);
+	this.gotoAndStop(106);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1618 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(359);
+	this.gotoAndStop(107);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1619 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(360);
+	this.gotoAndStop(108);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1620 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(361);
+	this.gotoAndStop(109);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1622 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(362);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(250);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1623 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(363);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(251);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1624 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(364);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(252);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1625 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(365);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(253);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1626 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(366);
+	this.gotoAndStop(110);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1627 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(367);
+	this.gotoAndStop(111);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1628 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(368);
+	this.gotoAndStop(112);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1629 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(369);
+	this.gotoAndStop(113);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1630 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(370);
+	this.gotoAndStop(114);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1631 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(371);
+	this.gotoAndStop(115);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1632 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(372);
+	this.gotoAndStop(116);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1633 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(373);
+	this.gotoAndStop(117);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1634 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(374);
+	this.gotoAndStop(118);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1635 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(375);
+	this.gotoAndStop(119);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1636 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(376);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(254);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1637 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(377);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(255);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1640 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(378);
+	this.gotoAndStop(120);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1641 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(379);
+	this.gotoAndStop(121);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1645 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(380);
+	this.gotoAndStop(122);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1646 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(381);
+	this.gotoAndStop(123);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1647 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(382);
+	this.gotoAndStop(124);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1648 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(383);
+	this.gotoAndStop(125);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1649 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(384);
+	this.gotoAndStop(126);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1650 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(385);
+	this.gotoAndStop(127);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1651 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(386);
+	this.gotoAndStop(128);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1652 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(387);
+	this.gotoAndStop(129);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1653 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(388);
+	this.gotoAndStop(130);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1656 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(389);
+	this.gotoAndStop(131);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1657 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(390);
+	this.gotoAndStop(132);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_1658 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(391);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1659 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(392);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1660 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(393);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1661 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(394);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1663 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(395);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1664 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(396);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1665 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(397);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1666 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(398);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1667 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(399);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1668 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(400);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1669 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(401);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1672 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(402);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1673 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(403);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1674 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(404);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1675 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(405);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1676 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(406);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.CachedTexturedBitmap_1677 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(407);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(256);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_169 = function() {
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(257);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1698 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(408);
+	this.gotoAndStop(133);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1699 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(134);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_170 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(409);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(258);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.CachedTexturedBitmap_171 = function() {
+(lib.CachedTexturedBitmap_1700 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(410);
+	this.gotoAndStop(135);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1703 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(136);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1704 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(137);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1705 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(138);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1709 = function() {
+	this.initialize(img.CachedTexturedBitmap_1709);
+}).prototype = p = new cjs.Bitmap();
+p.nominalBounds = new cjs.Rectangle(0,0,2739,1174);
+
+
+(lib.CachedTexturedBitmap_171 = function() {
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(259);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1710 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(139);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1711 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(140);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1712 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(141);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1713 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(142);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1714 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(143);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1715 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(144);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1716 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(145);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1717 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(146);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1718 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(147);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1719 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(148);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_172 = function() {
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(260);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1720 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(411);
+	this.gotoAndStop(149);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1721 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(150);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.CachedTexturedBitmap_1722 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(151);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_175 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(412);
+	this.gotoAndStop(152);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_181 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(413);
+	this.gotoAndStop(153);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_191 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(414);
+	this.gotoAndStop(154);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_201 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(415);
+	this.gotoAndStop(155);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_209 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(416);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(261);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_211 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(417);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(262);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_222 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(418);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(263);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_223 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(419);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(264);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_224 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(420);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(265);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_225 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(421);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(266);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_226 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(422);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(267);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_236 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(423);
+	this.gotoAndStop(156);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_24 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(424);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(268);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_250 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(425);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(269);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_257 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(426);
+	this.gotoAndStop(157);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_272 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(427);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(270);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_273 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(428);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(271);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_274 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(429);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(272);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_275 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(430);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(273);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_278 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(431);
+	this.gotoAndStop(158);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_284 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(432);
+	this.gotoAndStop(159);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_290 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(433);
+	this.gotoAndStop(160);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_300 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(434);
+	this.gotoAndStop(161);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_31 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(435);
+	this.gotoAndStop(162);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_322 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(436);
+	this.gotoAndStop(163);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_323 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(437);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(274);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_324 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(438);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(275);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_325 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(439);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(276);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_333 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(440);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(277);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_334 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(441);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(278);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_335 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(442);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(279);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_336 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(443);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(280);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_339 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(444);
+	this.gotoAndStop(164);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_346 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(445);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(281);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_351 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(446);
+	this.gotoAndStop(165);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_357 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(447);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(282);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_358 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(448);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(283);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_360 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(449);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(284);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_361 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(450);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(285);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_362 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(451);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(286);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_363 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(452);
+	this.gotoAndStop(166);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_369 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(453);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(287);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_371 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(454);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(288);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_374 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(455);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(289);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_379 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(456);
+	this.gotoAndStop(167);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_385 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(457);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(290);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_386 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(458);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(291);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_387 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(459);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(292);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_388 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(460);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(293);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_389 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(461);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(294);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_390 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(462);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(295);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_399 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(463);
+	this.gotoAndStop(168);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_402 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(464);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(296);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_408 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(465);
+	this.gotoAndStop(169);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_409 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(466);
+	this.gotoAndStop(170);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_415 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(467);
+	this.gotoAndStop(171);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_416 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(468);
+	this.gotoAndStop(172);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_418 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(469);
+	this.gotoAndStop(173);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_422 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(470);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(297);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_430 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(471);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(298);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_431 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(472);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(299);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_438 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(473);
+	this.gotoAndStop(174);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_452 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(474);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(300);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_46 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(475);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(301);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_461 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(476);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(302);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_462 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(477);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(303);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_463 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(478);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(304);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_464 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(479);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(305);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_467 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(480);
+	this.gotoAndStop(175);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_47 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(481);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(306);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_473 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(482);
+	this.gotoAndStop(176);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_479 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(483);
+	this.gotoAndStop(177);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_48 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(484);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(307);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_489 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(485);
+	this.gotoAndStop(178);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_49 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(486);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(308);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_495 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(487);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(309);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_496 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(488);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(310);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_508 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(489);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(311);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_509 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(490);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(312);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_510 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(491);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(313);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_519 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(492);
+	this.gotoAndStop(179);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_52 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(493);
+	this.gotoAndStop(180);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_538 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(494);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(314);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_539 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(495);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(315);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_540 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(496);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(316);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_543 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(497);
+	this.gotoAndStop(181);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_545 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(498);
+	this.gotoAndStop(182);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_559 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(499);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(317);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_566 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(500);
+	this.gotoAndStop(183);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_58 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(501);
+	this.gotoAndStop(184);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_581 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(502);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(318);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_582 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(503);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(319);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_583 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(504);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(320);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_584 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(505);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(321);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_587 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(506);
+	this.gotoAndStop(185);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_593 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(507);
+	this.gotoAndStop(186);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_603 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(508);
+	this.gotoAndStop(187);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_613 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(509);
+	this.gotoAndStop(188);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_64 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(510);
+	this.gotoAndStop(189);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_641 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(511);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(322);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_643 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(512);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(323);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_644 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(513);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(324);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_645 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(514);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(325);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_646 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(515);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(326);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_647 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(516);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(327);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_656 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(517);
+	this.gotoAndStop(190);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_666 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(518);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(328);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_668 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(519);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(329);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_670 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(520);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(330);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_673 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(521);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(331);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_675 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(522);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(332);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_677 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(523);
+	this.gotoAndStop(191);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_684 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(524);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(333);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_692 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(525);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(334);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_693 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(526);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(335);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_694 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(527);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(336);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_695 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(528);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(337);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_698 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(529);
+	this.gotoAndStop(192);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_712 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(530);
+	this.gotoAndStop(193);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_718 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(531);
+	this.gotoAndStop(194);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_724 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(532);
+	this.gotoAndStop(195);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_735 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(533);
+	this.gotoAndStop(196);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_74 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(534);
+	this.gotoAndStop(197);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_749 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(535);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(338);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_756 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(536);
+	this.gotoAndStop(198);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_771 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(537);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(339);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_772 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(538);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(340);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_773 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(539);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(341);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_774 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(540);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(342);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_777 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(541);
+	this.gotoAndStop(199);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_783 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(542);
+	this.gotoAndStop(200);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_789 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(543);
+	this.gotoAndStop(201);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_799 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(544);
+	this.gotoAndStop(202);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_828 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(545);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(343);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_829 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(546);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(344);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_830 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(547);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(345);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_831 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(548);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(346);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_832 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(549);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(347);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_839 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(550);
+	this.gotoAndStop(203);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_843 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(551);
+	this.gotoAndStop(204);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_844 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(552);
+	this.gotoAndStop(205);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_846 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(553);
+	this.gotoAndStop(206);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_847 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(554);
+	this.gotoAndStop(207);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_848 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(555);
+	this.gotoAndStop(208);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_849 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(556);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(348);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_853 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(557);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(349);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_857 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(558);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(350);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_860 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(559);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(351);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_865 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(560);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(352);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_867 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(561);
+	this.gotoAndStop(209);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_869 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(562);
+	this.gotoAndStop(210);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_872 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(563);
+	this.gotoAndStop(211);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_882 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(564);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(353);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_883 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(565);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(354);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_884 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(566);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(355);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_885 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(567);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(356);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_886 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(568);
+	this.gotoAndStop(212);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_905 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(569);
+	this.gotoAndStop(213);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_919 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(570);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(357);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_922 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(571);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(358);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_923 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(572);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(359);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_924 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(573);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(360);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_925 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(574);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(361);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_926 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(575);
+	this.gotoAndStop(214);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_932 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(576);
+	this.gotoAndStop(215);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_938 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(577);
+	this.gotoAndStop(216);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_944 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(578);
+	this.gotoAndStop(217);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_959 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(579);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(362);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_960 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(580);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(363);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_961 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(581);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(364);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_966 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(582);
+	this.gotoAndStop(218);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_978 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(583);
+	this.gotoAndStop(219);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_980 = function() {
 	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(584);
+	this.gotoAndStop(220);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_983 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(585);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(365);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_985 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(586);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(366);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_987 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(587);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(367);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_988 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(588);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(368);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_992 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(589);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(369);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.CachedTexturedBitmap_994 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(590);
+	this.initialize(ss["reallyfinal_atlas_8"]);
+	this.gotoAndStop(370);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -4192,57 +4200,57 @@ p.nominalBounds = new cjs.Rectangle(0,0,2623,1400);
 
 
 (lib.Webpnetresizeimage11 = function() {
-	this.initialize(ss["reallyfinal_atlas_3"]);
-	this.gotoAndStop(1);
+	this.initialize(ss["reallyfinal_atlas_4"]);
+	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
 (lib.Webpnetresizeimage12 = function() {
-	this.initialize(ss["reallyfinal_atlas_4"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Webpnetresizeimage13 = function() {
-	this.initialize(ss["reallyfinal_atlas_"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Webpnetresizeimage13jpgcopy = function() {
-	this.initialize(ss["reallyfinal_atlas_2"]);
-	this.gotoAndStop(0);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Webpnetresizeimage14 = function() {
-	this.initialize(ss["reallyfinal_atlas_4"]);
-	this.gotoAndStop(1);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Webpnetresizeimage15 = function() {
-	this.initialize(ss["reallyfinal_atlas_7"]);
-	this.gotoAndStop(591);
-}).prototype = p = new cjs.Sprite();
-
-
-
-(lib.Webpnetresizeimage3 = function() {
 	this.initialize(ss["reallyfinal_atlas_5"]);
 	this.gotoAndStop(0);
 }).prototype = p = new cjs.Sprite();
 
 
 
-(lib.Webpnetresizeimage4 = function() {
+(lib.Webpnetresizeimage13 = function() {
+	this.initialize(ss["reallyfinal_atlas_2"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Webpnetresizeimage13jpgcopy = function() {
+	this.initialize(ss["reallyfinal_atlas_"]);
+	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Webpnetresizeimage14 = function() {
 	this.initialize(ss["reallyfinal_atlas_6"]);
 	this.gotoAndStop(0);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Webpnetresizeimage15 = function() {
+	this.initialize(ss["reallyfinal_atlas_7"]);
+	this.gotoAndStop(221);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Webpnetresizeimage3 = function() {
+	this.initialize(ss["reallyfinal_atlas_6"]);
+	this.gotoAndStop(1);
+}).prototype = p = new cjs.Sprite();
+
+
+
+(lib.Webpnetresizeimage4 = function() {
+	this.initialize(ss["reallyfinal_atlas_4"]);
+	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
 
@@ -4255,7 +4263,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2623,1400);
 
 
 (lib.Webpnetresizeimage6 = function() {
-	this.initialize(ss["reallyfinal_atlas_6"]);
+	this.initialize(ss["reallyfinal_atlas_2"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 
@@ -4269,7 +4277,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,2623,1400);
 
 
 (lib.Webpnetresizeimage9 = function() {
-	this.initialize(ss["reallyfinal_atlas_2"]);
+	this.initialize(ss["reallyfinal_atlas_3"]);
 	this.gotoAndStop(1);
 }).prototype = p = new cjs.Sprite();
 // helper functions:
@@ -4302,14 +4310,14 @@ function getMCSymbolPrototype(symbol, nominalBounds, frameBounds) {
 	this.text.parent = this;
 	this.text.setTransform(63.6,19.15);
 
-	this.instance = new lib.CachedTexturedBitmap_1669();
+	this.instance = new lib.CachedTexturedBitmap_1722();
 	this.instance.parent = this;
-	this.instance.setTransform(34.45,0.65,0.5,0.5);
+	this.instance.setTransform(12.2,0.65,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(34.5,0.7,58.5,53.5);
+p.nominalBounds = new cjs.Rectangle(12.2,0.7,103,53.5);
 
 
 (lib.southafrica_textbox = function(mode,startPosition,loop) {
@@ -4323,14 +4331,14 @@ p.nominalBounds = new cjs.Rectangle(34.5,0.7,58.5,53.5);
 	this.text.parent = this;
 	this.text.setTransform(20.65,19.35);
 
-	this.instance = new lib.CachedTexturedBitmap_1668();
+	this.instance = new lib.CachedTexturedBitmap_1721();
 	this.instance.parent = this;
-	this.instance.setTransform(-36.15,0.7,0.5,0.5);
+	this.instance.setTransform(-56.85,0.7,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(-36.5,0.7,114.9,53.5);
+p.nominalBounds = new cjs.Rectangle(-56.8,0.7,156.2,53.3);
 
 
 (lib.japan_textbox = function(mode,startPosition,loop) {
@@ -4344,14 +4352,14 @@ p.nominalBounds = new cjs.Rectangle(-36.5,0.7,114.9,53.5);
 	this.text.parent = this;
 	this.text.setTransform(50.85,19.15);
 
-	this.instance = new lib.CachedTexturedBitmap_1667();
+	this.instance = new lib.CachedTexturedBitmap_1720();
 	this.instance.parent = this;
-	this.instance.setTransform(38.5,1.3,0.5,0.5);
+	this.instance.setTransform(12.1,1.3,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(38.3,1.3,25.200000000000003,52);
+p.nominalBounds = new cjs.Rectangle(12.1,1.3,78,52.300000000000004);
 
 
 (lib.india_textbox = function(mode,startPosition,loop) {
@@ -4365,14 +4373,14 @@ p.nominalBounds = new cjs.Rectangle(38.3,1.3,25.200000000000003,52);
 	this.text.parent = this;
 	this.text.setTransform(73.45,19.15);
 
-	this.instance = new lib.CachedTexturedBitmap_1666();
+	this.instance = new lib.CachedTexturedBitmap_1719();
 	this.instance.parent = this;
-	this.instance.setTransform(54,1.1,0.5,0.5);
+	this.instance.setTransform(27.7,1.1,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(54,1.1,38.5,52.5);
+p.nominalBounds = new cjs.Rectangle(27.7,1.1,91.3,52.5);
 
 
 (lib.greece_textbox = function(mode,startPosition,loop) {
@@ -4386,14 +4394,14 @@ p.nominalBounds = new cjs.Rectangle(54,1.1,38.5,52.5);
 	this.text.parent = this;
 	this.text.setTransform(50,19.15);
 
-	this.instance = new lib.CachedTexturedBitmap_1665();
+	this.instance = new lib.CachedTexturedBitmap_1718();
 	this.instance.parent = this;
-	this.instance.setTransform(37.9,1.15,0.5,0.5);
+	this.instance.setTransform(14.45,1.15,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(37.9,1.2,24.5,52.5);
+p.nominalBounds = new cjs.Rectangle(14.5,1.2,71.2,52.5);
 
 
 (lib.germany_textbox = function(mode,startPosition,loop) {
@@ -4407,14 +4415,14 @@ p.nominalBounds = new cjs.Rectangle(37.9,1.2,24.5,52.5);
 	this.text.parent = this;
 	this.text.setTransform(50.85,19.15);
 
-	this.instance = new lib.CachedTexturedBitmap_1664();
+	this.instance = new lib.CachedTexturedBitmap_1717();
 	this.instance.parent = this;
-	this.instance.setTransform(20.55,1.15,0.5,0.5);
+	this.instance.setTransform(-2.25,1.15,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(20.6,1.2,60.6,52.5);
+p.nominalBounds = new cjs.Rectangle(-2.2,1.2,106.5,52.5);
 
 
 (lib.france_textbox = function(mode,startPosition,loop) {
@@ -4428,14 +4436,14 @@ p.nominalBounds = new cjs.Rectangle(20.6,1.2,60.6,52.5);
 	this.text.parent = this;
 	this.text.setTransform(51.2,19.15);
 
-	this.instance = new lib.CachedTexturedBitmap_1663();
+	this.instance = new lib.CachedTexturedBitmap_1716();
 	this.instance.parent = this;
-	this.instance.setTransform(26.4,1.3,0.5,0.5);
+	this.instance.setTransform(2.95,1.35,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(26.4,1.3,50.00000000000001,53.5);
+p.nominalBounds = new cjs.Rectangle(3,1.4,97.2,53.2);
 
 
 (lib.china_textbox = function(mode,startPosition,loop) {
@@ -4449,14 +4457,14 @@ p.nominalBounds = new cjs.Rectangle(26.4,1.3,50.00000000000001,53.5);
 	this.text.parent = this;
 	this.text.setTransform(50.85,19.15);
 
-	this.instance = new lib.CachedTexturedBitmap_1667();
+	this.instance = new lib.CachedTexturedBitmap_1715();
 	this.instance.parent = this;
-	this.instance.setTransform(38.5,1.3,0.5,0.5);
+	this.instance.setTransform(13.95,1.3,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(38.3,1.3,25.200000000000003,52);
+p.nominalBounds = new cjs.Rectangle(14,1.3,74.5,52.300000000000004);
 
 
 (lib.canada_textbox = function(mode,startPosition,loop) {
@@ -4470,14 +4478,14 @@ p.nominalBounds = new cjs.Rectangle(38.3,1.3,25.200000000000003,52);
 	this.text.parent = this;
 	this.text.setTransform(47.5,19.15);
 
-	this.instance = new lib.CachedTexturedBitmap_1661();
+	this.instance = new lib.CachedTexturedBitmap_1714();
 	this.instance.parent = this;
-	this.instance.setTransform(23.4,2.65,0.5,0.5);
+	this.instance.setTransform(-2.1,2.65,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(23.4,2.7,48.50000000000001,51.5);
+p.nominalBounds = new cjs.Rectangle(-2.1,2.7,99.5,51.5);
 
 
 (lib.brazil_textbox = function(mode,startPosition,loop) {
@@ -4491,14 +4499,14 @@ p.nominalBounds = new cjs.Rectangle(23.4,2.7,48.50000000000001,51.5);
 	this.text.parent = this;
 	this.text.setTransform(69.75,19.15);
 
-	this.instance = new lib.CachedTexturedBitmap_1660();
+	this.instance = new lib.CachedTexturedBitmap_1713();
 	this.instance.parent = this;
-	this.instance.setTransform(47.15,0.75,0.5,0.5);
+	this.instance.setTransform(22.4,0.75,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(47.2,0.8,45,53);
+p.nominalBounds = new cjs.Rectangle(22.4,0.8,94.5,53.2);
 
 
 (lib.australiatextbox = function(mode,startPosition,loop) {
@@ -4512,14 +4520,14 @@ p.nominalBounds = new cjs.Rectangle(47.2,0.8,45,53);
 	this.text.parent = this;
 	this.text.setTransform(46.9,19.15,1.0284,1);
 
-	this.instance = new lib.CachedTexturedBitmap_1659();
+	this.instance = new lib.CachedTexturedBitmap_1712();
 	this.instance.parent = this;
-	this.instance.setTransform(5.8,1.1,0.5,0.5);
+	this.instance.setTransform(-17.05,1.15,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(5.8,1.1,82.10000000000001,52.5);
+p.nominalBounds = new cjs.Rectangle(-17,1.2,127.7,52.5);
 
 
 (lib.ClipGroup = function(mode,startPosition,loop) {
@@ -4581,7 +4589,7 @@ p.nominalBounds = new cjs.Rectangle(5.8,1.1,82.10000000000001,52.5);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance_2 = new lib.CachedTexturedBitmap_1672();
+	this.instance_2 = new lib.CachedTexturedBitmap_1698();
 	this.instance_2.parent = this;
 	this.instance_2.setTransform(0,0,0.5499,0.5499);
 
@@ -6155,9 +6163,9 @@ p.nominalBounds = new cjs.Rectangle(5.8,1.1,82.10000000000001,52.5);
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance_3 = new lib.CachedTexturedBitmap_1677();
+	this.instance_3 = new lib.CachedTexturedBitmap_1703();
 	this.instance_3.parent = this;
-	this.instance_3.setTransform(0,0,0.2783,0.2783);
+	this.instance_3.setTransform(0,0,0.5567,0.5567);
 
 	this.timeline.addTween(cjs.Tween.get(this.instance_3).wait(1));
 
@@ -6227,14 +6235,14 @@ p.nominalBounds = new cjs.Rectangle(0,0.1,125.7,125.7);
 	this.text.parent = this;
 	this.text.setTransform(49.6,19.35);
 
-	this.instance = new lib.CachedTexturedBitmap_1310();
+	this.instance = new lib.CachedTexturedBitmap_1711();
 	this.instance.parent = this;
-	this.instance.setTransform(19.2,1.45,0.5,0.5);
+	this.instance.setTransform(-4.5,1.4,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(19.2,1.5,60.5,53);
+p.nominalBounds = new cjs.Rectangle(-4.5,1.4,108.5,53);
 
 
 (lib.italy_flag = function(mode,startPosition,loop) {
@@ -6270,14 +6278,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,125.7,125.7);
 	this.text.parent = this;
 	this.text.setTransform(65.75,19.15);
 
-	this.instance = new lib.CachedTexturedBitmap_1306();
+	this.instance = new lib.CachedTexturedBitmap_1710();
 	this.instance.parent = this;
-	this.instance.setTransform(38.6,2.2,0.5,0.5);
+	this.instance.setTransform(16.3,2.2,0.25,0.25);
 
 	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.text}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(38.6,2.2,54.49999999999999,53);
+p.nominalBounds = new cjs.Rectangle(16.3,2.2,99.5,52.8);
 
 
 (lib.israel_flag = function(mode,startPosition,loop) {
@@ -6566,15 +6574,38 @@ p.nominalBounds = new cjs.Rectangle(0,0.1,125.7,125.7);
 p.nominalBounds = new cjs.Rectangle(0,0.1,125.7,125.7);
 
 
+(lib.xCloseHover = function(mode,startPosition,loop) {
+	this.initialize(mode,startPosition,loop,{});
+
+	// Layer_1
+	this.instance = new lib.CachedTexturedBitmap_1705();
+	this.instance.parent = this;
+	this.instance.setTransform(16.15,16.1,0.5,0.5);
+
+	this.instance_1 = new lib.CachedTexturedBitmap_1704();
+	this.instance_1.parent = this;
+	this.instance_1.setTransform(0,0,0.5,0.5);
+
+	this.instance_2 = new lib.Path_3();
+	this.instance_2.parent = this;
+	this.instance_2.setTransform(24.9,24.75,0.8981,0.8981,0,0,0,25.4,25.4);
+	this.instance_2.alpha = 0.75;
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
+
+}).prototype = p = new cjs.MovieClip();
+p.nominalBounds = new cjs.Rectangle(0,0,49.5,49.5);
+
+
 (lib.xClose = function(mode,startPosition,loop) {
 	this.initialize(mode,startPosition,loop,{});
 
 	// Layer_1
-	this.instance = new lib.CachedTexturedBitmap_1674();
+	this.instance = new lib.CachedTexturedBitmap_1700();
 	this.instance.parent = this;
 	this.instance.setTransform(16.35,16.35,0.5,0.5);
 
-	this.instance_1 = new lib.CachedTexturedBitmap_1673();
+	this.instance_1 = new lib.CachedTexturedBitmap_1699();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(0,0,0.5,0.5);
 
@@ -6796,12 +6827,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.initialize(mode,startPosition,loop,{});
 
 	// flash0_ai
-	this.x_usa = new lib.xClose();
-	this.x_usa.name = "x_usa";
-	this.x_usa.parent = this;
-	this.x_usa.setTransform(-20.15,-3.1);
-	new cjs.ButtonHelper(this.x_usa, 0, 1, 1);
-
 	this.instance = new lib.CachedTexturedBitmap_1255();
 	this.instance.parent = this;
 	this.instance.setTransform(1198.05,591.55,0.5,0.5);
@@ -7417,7 +7442,19 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.instance_107.parent = this;
 	this.instance_107.setTransform(885.9,593.15,0.5,0.5);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_107},{t:this.instance_106},{t:this.instance_105},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.text_24},{t:this.text_23},{t:this.instance_71},{t:this.instance_70},{t:this.text_22},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.text_21},{t:this.instance_66},{t:this.text_20},{t:this.instance_65},{t:this.text_19},{t:this.text_18},{t:this.instance_64},{t:this.instance_63},{t:this.instance_62},{t:this.text_17},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.text_16},{t:this.text_15},{t:this.instance_55},{t:this.text_14},{t:this.instance_54},{t:this.text_13},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_12},{t:this.text_11},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.text_10},{t:this.text_9},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.text_8},{t:this.text_7},{t:this.instance_35},{t:this.text_6},{t:this.instance_34},{t:this.text_5},{t:this.instance_33},{t:this.text_4},{t:this.instance_32},{t:this.text_3},{t:this.instance_31},{t:this.text_2},{t:this.instance_30},{t:this.text_1},{t:this.text},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.x_usa}]}).wait(1));
+	this.x_usa = new lib.xClose();
+	this.x_usa.name = "x_usa";
+	this.x_usa.parent = this;
+	this.x_usa.setTransform(-20.15,-3.1);
+	new cjs.ButtonHelper(this.x_usa, 0, 1, 1);
+
+	this.x_usa_hover = new lib.xCloseHover();
+	this.x_usa_hover.name = "x_usa_hover";
+	this.x_usa_hover.parent = this;
+	this.x_usa_hover.setTransform(-19.8,-2.65);
+	new cjs.ButtonHelper(this.x_usa_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_usa_hover},{t:this.x_usa},{t:this.instance_107},{t:this.instance_106},{t:this.instance_105},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.text_24},{t:this.text_23},{t:this.instance_71},{t:this.instance_70},{t:this.text_22},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.text_21},{t:this.instance_66},{t:this.text_20},{t:this.instance_65},{t:this.text_19},{t:this.text_18},{t:this.instance_64},{t:this.instance_63},{t:this.instance_62},{t:this.text_17},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.text_16},{t:this.text_15},{t:this.instance_55},{t:this.text_14},{t:this.instance_54},{t:this.text_13},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_12},{t:this.text_11},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.text_10},{t:this.text_9},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.text_8},{t:this.text_7},{t:this.instance_35},{t:this.text_6},{t:this.instance_34},{t:this.text_5},{t:this.instance_33},{t:this.text_4},{t:this.instance_32},{t:this.text_3},{t:this.instance_31},{t:this.text_2},{t:this.instance_30},{t:this.text_1},{t:this.text},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
 
 	// flash0_ai
 	this.instance_108 = new lib.CachedTexturedBitmap_1256();
@@ -7440,12 +7477,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	// flash0_ai
-	this.x_southafrica = new lib.xClose();
-	this.x_southafrica.name = "x_southafrica";
-	this.x_southafrica.parent = this;
-	this.x_southafrica.setTransform(-18.8,-3.25);
-	new cjs.ButtonHelper(this.x_southafrica, 0, 1, 1);
-
 	this.instance_1 = new lib.CachedTexturedBitmap_1156();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(1197.75,591.55,0.5,0.5);
@@ -8045,7 +8076,19 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.instance_104.parent = this;
 	this.instance_104.setTransform(663,457,0.234,0.234);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.text_24},{t:this.text_23},{t:this.instance_67},{t:this.instance_66},{t:this.text_22},{t:this.instance_65},{t:this.instance_64},{t:this.instance_63},{t:this.text_21},{t:this.instance_62},{t:this.text_20},{t:this.instance_61},{t:this.text_19},{t:this.text_18},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.text_17},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.text_16},{t:this.text_15},{t:this.instance_51},{t:this.text_14},{t:this.instance_50},{t:this.text_13},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.text_12},{t:this.text_11},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.text_10},{t:this.text_9},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.text_8},{t:this.text_7},{t:this.instance_31},{t:this.text_6},{t:this.instance_30},{t:this.text_5},{t:this.instance_29},{t:this.text_4},{t:this.instance_28},{t:this.text_3},{t:this.instance_27},{t:this.text_2},{t:this.instance_26},{t:this.text_1},{t:this.text},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.x_southafrica}]}).wait(1));
+	this.x_southafrica = new lib.xClose();
+	this.x_southafrica.name = "x_southafrica";
+	this.x_southafrica.parent = this;
+	this.x_southafrica.setTransform(-18.8,-3.25);
+	new cjs.ButtonHelper(this.x_southafrica, 0, 1, 1);
+
+	this.x_southafrica_hover = new lib.xCloseHover();
+	this.x_southafrica_hover.name = "x_southafrica_hover";
+	this.x_southafrica_hover.parent = this;
+	this.x_southafrica_hover.setTransform(-18.45,-2.9);
+	new cjs.ButtonHelper(this.x_southafrica_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_southafrica_hover},{t:this.x_southafrica},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.text_24},{t:this.text_23},{t:this.instance_67},{t:this.instance_66},{t:this.text_22},{t:this.instance_65},{t:this.instance_64},{t:this.instance_63},{t:this.text_21},{t:this.instance_62},{t:this.text_20},{t:this.instance_61},{t:this.text_19},{t:this.text_18},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.text_17},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.text_16},{t:this.text_15},{t:this.instance_51},{t:this.text_14},{t:this.instance_50},{t:this.text_13},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.text_12},{t:this.text_11},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.text_10},{t:this.text_9},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.text_8},{t:this.text_7},{t:this.instance_31},{t:this.text_6},{t:this.instance_30},{t:this.text_5},{t:this.instance_29},{t:this.text_4},{t:this.instance_28},{t:this.text_3},{t:this.instance_27},{t:this.text_2},{t:this.instance_26},{t:this.text_1},{t:this.text},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1}]}).wait(1));
 
 	// flash0_ai
 	this.instance_105 = new lib.CachedTexturedBitmap_1256();
@@ -8642,7 +8685,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.text_25.parent = this;
 	this.text_25.setTransform(663.35,25.65);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_25},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.text_24},{t:this.text_23},{t:this.instance_73},{t:this.instance_72},{t:this.text_22},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.text_21},{t:this.instance_68},{t:this.text_20},{t:this.instance_67},{t:this.text_19},{t:this.text_18},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.text_17},{t:this.instance_63},{t:this.instance_62},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.text_16},{t:this.text_15},{t:this.instance_57},{t:this.text_14},{t:this.instance_56},{t:this.text_13},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.text_12},{t:this.text_11},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.text_10},{t:this.text_9},{t:this.instance_43},{t:this.instance_42},{t:this.text_8},{t:this.instance_41},{t:this.instance_40},{t:this.text_7},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.text_6},{t:this.text_5},{t:this.instance_33},{t:this.text_4},{t:this.instance_32},{t:this.text_3},{t:this.instance_31},{t:this.text_2},{t:this.text_1},{t:this.instance_30},{t:this.instance_29},{t:this.text},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.x_japan}]}).wait(1));
+	this.x_japan_hover = new lib.xCloseHover();
+	this.x_japan_hover.name = "x_japan_hover";
+	this.x_japan_hover.parent = this;
+	this.x_japan_hover.setTransform(-20.8,-2.9);
+	new cjs.ButtonHelper(this.x_japan_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_japan_hover},{t:this.text_25},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.text_24},{t:this.text_23},{t:this.instance_73},{t:this.instance_72},{t:this.text_22},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.text_21},{t:this.instance_68},{t:this.text_20},{t:this.instance_67},{t:this.text_19},{t:this.text_18},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.text_17},{t:this.instance_63},{t:this.instance_62},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.text_16},{t:this.text_15},{t:this.instance_57},{t:this.text_14},{t:this.instance_56},{t:this.text_13},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.text_12},{t:this.text_11},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.text_10},{t:this.text_9},{t:this.instance_43},{t:this.instance_42},{t:this.text_8},{t:this.instance_41},{t:this.instance_40},{t:this.text_7},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.text_6},{t:this.text_5},{t:this.instance_33},{t:this.text_4},{t:this.instance_32},{t:this.text_3},{t:this.instance_31},{t:this.text_2},{t:this.text_1},{t:this.instance_30},{t:this.instance_29},{t:this.text},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.x_japan}]}).wait(1));
 
 	// flash0_ai
 	this.instance_97 = new lib.CachedTexturedBitmap_1256();
@@ -8658,12 +8707,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.initialize(mode,startPosition,loop,{});
 
 	// flash0_ai
-	this.x_italy = new lib.xClose();
-	this.x_italy.name = "x_italy";
-	this.x_italy.parent = this;
-	this.x_italy.setTransform(5.45,23,1,1,0,0,0,25,25);
-	new cjs.ButtonHelper(this.x_italy, 0, 1, 1);
-
 	this.instance = new lib.CachedTexturedBitmap_1065();
 	this.instance.parent = this;
 	this.instance.setTransform(586.45,602.65,0.5,0.5);
@@ -9211,7 +9254,19 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.instance_91.parent = this;
 	this.instance_91.setTransform(22,459,0.2289,0.2289);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_91},{t:this.text_23},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.text_22},{t:this.instance_64},{t:this.text_21},{t:this.instance_63},{t:this.text_20},{t:this.text_19},{t:this.instance_62},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.text_18},{t:this.text_17},{t:this.instance_55},{t:this.text_16},{t:this.instance_54},{t:this.text_15},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_14},{t:this.text_13},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.text_12},{t:this.text_11},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.text_10},{t:this.text_9},{t:this.instance_35},{t:this.text_8},{t:this.instance_34},{t:this.text_7},{t:this.instance_33},{t:this.text_6},{t:this.instance_32},{t:this.text_5},{t:this.instance_31},{t:this.text_4},{t:this.instance_30},{t:this.text_3},{t:this.instance_29},{t:this.text_2},{t:this.instance_28},{t:this.text_1},{t:this.instance_27},{t:this.text},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.x_italy}]}).wait(1));
+	this.x_italy = new lib.xClose();
+	this.x_italy.name = "x_italy";
+	this.x_italy.parent = this;
+	this.x_italy.setTransform(5.45,23,1,1,0,0,0,25,25);
+	new cjs.ButtonHelper(this.x_italy, 0, 1, 1);
+
+	this.x_italy_hover = new lib.xCloseHover();
+	this.x_italy_hover.name = "x_italy_hover";
+	this.x_italy_hover.parent = this;
+	this.x_italy_hover.setTransform(-19.3,-1.65);
+	new cjs.ButtonHelper(this.x_italy_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_italy_hover},{t:this.x_italy},{t:this.instance_91},{t:this.text_23},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.text_22},{t:this.instance_64},{t:this.text_21},{t:this.instance_63},{t:this.text_20},{t:this.text_19},{t:this.instance_62},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.text_18},{t:this.text_17},{t:this.instance_55},{t:this.text_16},{t:this.instance_54},{t:this.text_15},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_14},{t:this.text_13},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.text_12},{t:this.text_11},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.text_10},{t:this.text_9},{t:this.instance_35},{t:this.text_8},{t:this.instance_34},{t:this.text_7},{t:this.instance_33},{t:this.text_6},{t:this.instance_32},{t:this.text_5},{t:this.instance_31},{t:this.text_4},{t:this.instance_30},{t:this.text_3},{t:this.instance_29},{t:this.text_2},{t:this.instance_28},{t:this.text_1},{t:this.instance_27},{t:this.text},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
 
 	// flash0_ai
 	this.instance_92 = new lib.CachedTexturedBitmap_1256();
@@ -9623,7 +9678,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.text_17.parent = this;
 	this.text_17.setTransform(660.85,25.65);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_17},{t:this.instance_63},{t:this.instance_62},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.text_16},{t:this.text_15},{t:this.instance_23},{t:this.instance_22},{t:this.text_14},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.text_13},{t:this.instance_18},{t:this.text_12},{t:this.instance_17},{t:this.text_11},{t:this.text_10},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.text_9},{t:this.instance_13},{t:this.text_8},{t:this.instance_12},{t:this.text_7},{t:this.instance_11},{t:this.instance_10},{t:this.text_6},{t:this.instance_9},{t:this.instance_8},{t:this.text_5},{t:this.instance_7},{t:this.text_4},{t:this.instance_6},{t:this.text_3},{t:this.instance_5},{t:this.text_2},{t:this.text_1},{t:this.instance_4},{t:this.instance_3},{t:this.text},{t:this.instance_2},{t:this.instance_1},{t:this.x_israel}]}).wait(1));
+	this.x_israel_hover = new lib.xCloseHover();
+	this.x_israel_hover.name = "x_israel_hover";
+	this.x_israel_hover.parent = this;
+	this.x_israel_hover.setTransform(-19.35,-0.75);
+	new cjs.ButtonHelper(this.x_israel_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_israel_hover},{t:this.text_17},{t:this.instance_63},{t:this.instance_62},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.text_16},{t:this.text_15},{t:this.instance_23},{t:this.instance_22},{t:this.text_14},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.text_13},{t:this.instance_18},{t:this.text_12},{t:this.instance_17},{t:this.text_11},{t:this.text_10},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.text_9},{t:this.instance_13},{t:this.text_8},{t:this.instance_12},{t:this.text_7},{t:this.instance_11},{t:this.instance_10},{t:this.text_6},{t:this.instance_9},{t:this.instance_8},{t:this.text_5},{t:this.instance_7},{t:this.text_4},{t:this.instance_6},{t:this.text_3},{t:this.instance_5},{t:this.text_2},{t:this.text_1},{t:this.instance_4},{t:this.instance_3},{t:this.text},{t:this.instance_2},{t:this.instance_1},{t:this.x_israel}]}).wait(1));
 
 	// flash0_ai
 	this.instance_64 = new lib.CachedTexturedBitmap_1256();
@@ -10287,7 +10348,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.text_25.parent = this;
 	this.text_25.setTransform(667.65,25.65);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_25},{t:this.instance_112},{t:this.instance_111},{t:this.instance_110},{t:this.instance_109},{t:this.instance_108},{t:this.instance_107},{t:this.instance_106},{t:this.instance_105},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.text_24},{t:this.text_23},{t:this.instance_76},{t:this.instance_75},{t:this.text_22},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.text_21},{t:this.instance_71},{t:this.text_20},{t:this.instance_70},{t:this.text_19},{t:this.text_18},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.text_17},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.instance_63},{t:this.instance_62},{t:this.instance_61},{t:this.text_16},{t:this.text_15},{t:this.instance_60},{t:this.text_14},{t:this.instance_59},{t:this.text_13},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.text_12},{t:this.text_11},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.text_10},{t:this.text_9},{t:this.instance_46},{t:this.instance_45},{t:this.text_8},{t:this.instance_44},{t:this.instance_43},{t:this.text_7},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.text_6},{t:this.text_5},{t:this.instance_36},{t:this.text_4},{t:this.instance_35},{t:this.text_3},{t:this.instance_34},{t:this.text_2},{t:this.text_1},{t:this.instance_33},{t:this.instance_32},{t:this.text},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.x_india}]}).wait(1));
+	this.x_india_hover = new lib.xCloseHover();
+	this.x_india_hover.name = "x_india_hover";
+	this.x_india_hover.parent = this;
+	this.x_india_hover.setTransform(-18.6,-0.5);
+	new cjs.ButtonHelper(this.x_india_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_india_hover},{t:this.text_25},{t:this.instance_112},{t:this.instance_111},{t:this.instance_110},{t:this.instance_109},{t:this.instance_108},{t:this.instance_107},{t:this.instance_106},{t:this.instance_105},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.text_24},{t:this.text_23},{t:this.instance_76},{t:this.instance_75},{t:this.text_22},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.text_21},{t:this.instance_71},{t:this.text_20},{t:this.instance_70},{t:this.text_19},{t:this.text_18},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.text_17},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.instance_63},{t:this.instance_62},{t:this.instance_61},{t:this.text_16},{t:this.text_15},{t:this.instance_60},{t:this.text_14},{t:this.instance_59},{t:this.text_13},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.text_12},{t:this.text_11},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.text_10},{t:this.text_9},{t:this.instance_46},{t:this.instance_45},{t:this.text_8},{t:this.instance_44},{t:this.instance_43},{t:this.text_7},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.text_6},{t:this.text_5},{t:this.instance_36},{t:this.text_4},{t:this.instance_35},{t:this.text_3},{t:this.instance_34},{t:this.text_2},{t:this.text_1},{t:this.instance_33},{t:this.instance_32},{t:this.text},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.x_india}]}).wait(1));
 
 	// flash0_ai
 	this.instance_113 = new lib.CachedTexturedBitmap_1256();
@@ -10954,7 +11021,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.instance_112.parent = this;
 	this.instance_112.setTransform(20,458,0.0469,0.0469);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_112},{t:this.text_25},{t:this.instance_111},{t:this.instance_110},{t:this.instance_109},{t:this.instance_108},{t:this.instance_107},{t:this.instance_106},{t:this.instance_105},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.text_24},{t:this.text_23},{t:this.instance_71},{t:this.instance_70},{t:this.text_22},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.text_21},{t:this.instance_66},{t:this.text_20},{t:this.instance_65},{t:this.text_19},{t:this.text_18},{t:this.instance_64},{t:this.instance_63},{t:this.instance_62},{t:this.text_17},{t:this.instance_61},{t:this.text_16},{t:this.instance_60},{t:this.text_15},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.text_14},{t:this.text_13},{t:this.instance_53},{t:this.instance_52},{t:this.text_12},{t:this.instance_51},{t:this.instance_50},{t:this.text_11},{t:this.instance_49},{t:this.text_10},{t:this.instance_48},{t:this.text_9},{t:this.instance_47},{t:this.text_8},{t:this.text_7},{t:this.instance_46},{t:this.instance_45},{t:this.text_6},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.text_5},{t:this.text_4},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.text_3},{t:this.text_2},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.text_1},{t:this.text},{t:this.x_greece}]}).wait(1));
+	this.x_greece_hover = new lib.xCloseHover();
+	this.x_greece_hover.name = "x_greece_hover";
+	this.x_greece_hover.parent = this;
+	this.x_greece_hover.setTransform(-19.2,-1.8);
+	new cjs.ButtonHelper(this.x_greece_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_greece_hover},{t:this.instance_112},{t:this.text_25},{t:this.instance_111},{t:this.instance_110},{t:this.instance_109},{t:this.instance_108},{t:this.instance_107},{t:this.instance_106},{t:this.instance_105},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.text_24},{t:this.text_23},{t:this.instance_71},{t:this.instance_70},{t:this.text_22},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.text_21},{t:this.instance_66},{t:this.text_20},{t:this.instance_65},{t:this.text_19},{t:this.text_18},{t:this.instance_64},{t:this.instance_63},{t:this.instance_62},{t:this.text_17},{t:this.instance_61},{t:this.text_16},{t:this.instance_60},{t:this.text_15},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.text_14},{t:this.text_13},{t:this.instance_53},{t:this.instance_52},{t:this.text_12},{t:this.instance_51},{t:this.instance_50},{t:this.text_11},{t:this.instance_49},{t:this.text_10},{t:this.instance_48},{t:this.text_9},{t:this.instance_47},{t:this.text_8},{t:this.text_7},{t:this.instance_46},{t:this.instance_45},{t:this.text_6},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.text_5},{t:this.text_4},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.text_3},{t:this.text_2},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.text_1},{t:this.text},{t:this.x_greece}]}).wait(1));
 
 	// flash0_ai
 	this.instance_113 = new lib.CachedTexturedBitmap_1256();
@@ -11573,7 +11646,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.instance_100.parent = this;
 	this.instance_100.setTransform(667,459,0.2268,0.2268);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_100},{t:this.text_25},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.text_24},{t:this.text_23},{t:this.instance_63},{t:this.instance_62},{t:this.text_22},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.text_21},{t:this.instance_58},{t:this.text_20},{t:this.instance_57},{t:this.text_19},{t:this.text_18},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.text_17},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_16},{t:this.text_15},{t:this.instance_47},{t:this.text_14},{t:this.instance_46},{t:this.text_13},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.text_12},{t:this.text_11},{t:this.instance_39},{t:this.instance_38},{t:this.text_10},{t:this.instance_37},{t:this.instance_36},{t:this.text_9},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.text_8},{t:this.text_7},{t:this.instance_29},{t:this.text_6},{t:this.instance_28},{t:this.text_5},{t:this.instance_27},{t:this.text_4},{t:this.text_3},{t:this.instance_26},{t:this.instance_25},{t:this.text_2},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.text_1},{t:this.text},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.x_germany}]}).wait(1));
+	this.x_germany_hover = new lib.xCloseHover();
+	this.x_germany_hover.name = "x_germany_hover";
+	this.x_germany_hover.parent = this;
+	this.x_germany_hover.setTransform(-19.45,-0.8);
+	new cjs.ButtonHelper(this.x_germany_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_germany_hover},{t:this.instance_100},{t:this.text_25},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.text_24},{t:this.text_23},{t:this.instance_63},{t:this.instance_62},{t:this.text_22},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.text_21},{t:this.instance_58},{t:this.text_20},{t:this.instance_57},{t:this.text_19},{t:this.text_18},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.text_17},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_16},{t:this.text_15},{t:this.instance_47},{t:this.text_14},{t:this.instance_46},{t:this.text_13},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.text_12},{t:this.text_11},{t:this.instance_39},{t:this.instance_38},{t:this.text_10},{t:this.instance_37},{t:this.instance_36},{t:this.text_9},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.text_8},{t:this.text_7},{t:this.instance_29},{t:this.text_6},{t:this.instance_28},{t:this.text_5},{t:this.instance_27},{t:this.text_4},{t:this.text_3},{t:this.instance_26},{t:this.instance_25},{t:this.text_2},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.text_1},{t:this.text},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.x_germany}]}).wait(1));
 
 	// flash0_ai
 	this.instance_101 = new lib.CachedTexturedBitmap_1256();
@@ -12194,7 +12273,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.instance_102.parent = this;
 	this.instance_102.setTransform(667,459,0.2291,0.2291);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_102},{t:this.text_25},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.text_24},{t:this.text_23},{t:this.instance_78},{t:this.instance_77},{t:this.text_22},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.text_21},{t:this.instance_73},{t:this.text_20},{t:this.instance_72},{t:this.text_19},{t:this.text_18},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.text_17},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.instance_63},{t:this.text_16},{t:this.text_15},{t:this.instance_62},{t:this.text_14},{t:this.instance_61},{t:this.text_13},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.text_12},{t:this.text_11},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.text_10},{t:this.text_9},{t:this.instance_48},{t:this.instance_47},{t:this.text_8},{t:this.instance_46},{t:this.instance_45},{t:this.text_7},{t:this.instance_44},{t:this.text_6},{t:this.text_5},{t:this.instance_43},{t:this.text_4},{t:this.instance_42},{t:this.text_3},{t:this.instance_41},{t:this.text_2},{t:this.text_1},{t:this.instance_40},{t:this.instance_39},{t:this.text},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.x_france}]}).wait(1));
+	this.x_france_hover = new lib.xCloseHover();
+	this.x_france_hover.name = "x_france_hover";
+	this.x_france_hover.parent = this;
+	this.x_france_hover.setTransform(-18.05,-0.3);
+	new cjs.ButtonHelper(this.x_france_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_france_hover},{t:this.instance_102},{t:this.text_25},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.text_24},{t:this.text_23},{t:this.instance_78},{t:this.instance_77},{t:this.text_22},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.text_21},{t:this.instance_73},{t:this.text_20},{t:this.instance_72},{t:this.text_19},{t:this.text_18},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.text_17},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.instance_63},{t:this.text_16},{t:this.text_15},{t:this.instance_62},{t:this.text_14},{t:this.instance_61},{t:this.text_13},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.text_12},{t:this.text_11},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.text_10},{t:this.text_9},{t:this.instance_48},{t:this.instance_47},{t:this.text_8},{t:this.instance_46},{t:this.instance_45},{t:this.text_7},{t:this.instance_44},{t:this.text_6},{t:this.text_5},{t:this.instance_43},{t:this.text_4},{t:this.instance_42},{t:this.text_3},{t:this.instance_41},{t:this.text_2},{t:this.text_1},{t:this.instance_40},{t:this.instance_39},{t:this.text},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.x_france}]}).wait(1));
 
 	// flash0_ai
 	this.instance_103 = new lib.CachedTexturedBitmap_1256();
@@ -12867,7 +12952,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.instance_115.parent = this;
 	this.instance_115.setTransform(663,457,0.2304,0.2304);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_115},{t:this.instance_114},{t:this.text_25},{t:this.instance_113},{t:this.instance_112},{t:this.text_24},{t:this.text_23},{t:this.instance_111},{t:this.instance_110},{t:this.text_22},{t:this.instance_109},{t:this.instance_108},{t:this.instance_107},{t:this.text_21},{t:this.instance_106},{t:this.text_20},{t:this.instance_105},{t:this.text_19},{t:this.text_18},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.text_17},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.text_16},{t:this.text_15},{t:this.instance_89},{t:this.text_14},{t:this.instance_88},{t:this.text_13},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.text_12},{t:this.text_11},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.text_10},{t:this.text_9},{t:this.instance_63},{t:this.instance_62},{t:this.text_8},{t:this.instance_61},{t:this.instance_60},{t:this.text_7},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_6},{t:this.text_5},{t:this.instance_47},{t:this.text_4},{t:this.instance_46},{t:this.text_3},{t:this.instance_45},{t:this.text_2},{t:this.text_1},{t:this.instance_44},{t:this.instance_43},{t:this.text},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.x_china}]}).wait(1));
+	this.x_china_hover = new lib.xCloseHover();
+	this.x_china_hover.name = "x_china_hover";
+	this.x_china_hover.parent = this;
+	this.x_china_hover.setTransform(-17.2,-0.8);
+	new cjs.ButtonHelper(this.x_china_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_china_hover},{t:this.instance_115},{t:this.instance_114},{t:this.text_25},{t:this.instance_113},{t:this.instance_112},{t:this.text_24},{t:this.text_23},{t:this.instance_111},{t:this.instance_110},{t:this.text_22},{t:this.instance_109},{t:this.instance_108},{t:this.instance_107},{t:this.text_21},{t:this.instance_106},{t:this.text_20},{t:this.instance_105},{t:this.text_19},{t:this.text_18},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.text_17},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.text_16},{t:this.text_15},{t:this.instance_89},{t:this.text_14},{t:this.instance_88},{t:this.text_13},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.text_12},{t:this.text_11},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.text_10},{t:this.text_9},{t:this.instance_63},{t:this.instance_62},{t:this.text_8},{t:this.instance_61},{t:this.instance_60},{t:this.text_7},{t:this.instance_59},{t:this.instance_58},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_6},{t:this.text_5},{t:this.instance_47},{t:this.text_4},{t:this.instance_46},{t:this.text_3},{t:this.instance_45},{t:this.text_2},{t:this.text_1},{t:this.instance_44},{t:this.instance_43},{t:this.text},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.x_china}]}).wait(1));
 
 	// flash0_ai
 	this.instance_116 = new lib.CachedTexturedBitmap_1256();
@@ -13495,7 +13586,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.text_25.parent = this;
 	this.text_25.setTransform(667.45,25.65);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_25},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.text_24},{t:this.text_23},{t:this.instance_63},{t:this.instance_62},{t:this.text_22},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.text_21},{t:this.instance_58},{t:this.text_20},{t:this.instance_57},{t:this.text_19},{t:this.text_18},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.text_17},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_16},{t:this.text_15},{t:this.instance_47},{t:this.text_14},{t:this.instance_46},{t:this.text_13},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.text_12},{t:this.text_11},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.text_10},{t:this.text_9},{t:this.instance_33},{t:this.instance_32},{t:this.text_8},{t:this.instance_31},{t:this.instance_30},{t:this.text_7},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.text_6},{t:this.text_5},{t:this.instance_23},{t:this.text_4},{t:this.instance_22},{t:this.text_3},{t:this.instance_21},{t:this.text_2},{t:this.text_1},{t:this.instance_20},{t:this.instance_19},{t:this.text},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.x_canada}]}).wait(1));
+	this.x_canada_hover = new lib.xCloseHover();
+	this.x_canada_hover.name = "x_canada_hover";
+	this.x_canada_hover.parent = this;
+	this.x_canada_hover.setTransform(-16.95,-0.8);
+	new cjs.ButtonHelper(this.x_canada_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_canada_hover},{t:this.text_25},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.text_24},{t:this.text_23},{t:this.instance_63},{t:this.instance_62},{t:this.text_22},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.text_21},{t:this.instance_58},{t:this.text_20},{t:this.instance_57},{t:this.text_19},{t:this.text_18},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.text_17},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_16},{t:this.text_15},{t:this.instance_47},{t:this.text_14},{t:this.instance_46},{t:this.text_13},{t:this.instance_45},{t:this.instance_44},{t:this.instance_43},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.text_12},{t:this.text_11},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.text_10},{t:this.text_9},{t:this.instance_33},{t:this.instance_32},{t:this.text_8},{t:this.instance_31},{t:this.instance_30},{t:this.text_7},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.text_6},{t:this.text_5},{t:this.instance_23},{t:this.text_4},{t:this.instance_22},{t:this.text_3},{t:this.instance_21},{t:this.text_2},{t:this.text_1},{t:this.instance_20},{t:this.instance_19},{t:this.text},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.x_canada}]}).wait(1));
 
 	// flash0_ai
 	this.instance_104 = new lib.CachedTexturedBitmap_1256();
@@ -14136,7 +14233,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.text_25.parent = this;
 	this.text_25.setTransform(654.25,25.65);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_25},{t:this.instance_107},{t:this.instance_106},{t:this.instance_105},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.text_24},{t:this.text_23},{t:this.instance_67},{t:this.instance_66},{t:this.text_22},{t:this.instance_65},{t:this.instance_64},{t:this.instance_63},{t:this.text_21},{t:this.instance_62},{t:this.text_20},{t:this.instance_61},{t:this.text_19},{t:this.text_18},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.text_17},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.text_16},{t:this.text_15},{t:this.instance_51},{t:this.text_14},{t:this.instance_50},{t:this.text_13},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.text_12},{t:this.text_11},{t:this.instance_43},{t:this.instance_42},{t:this.text_10},{t:this.instance_41},{t:this.instance_40},{t:this.text_9},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.text_8},{t:this.text_7},{t:this.instance_33},{t:this.text_6},{t:this.instance_32},{t:this.text_5},{t:this.instance_31},{t:this.text_4},{t:this.text_3},{t:this.instance_30},{t:this.instance_29},{t:this.text_2},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.text_1},{t:this.text},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.x_brazil}]}).wait(1));
+	this.x_brazil_hover = new lib.xCloseHover();
+	this.x_brazil_hover.name = "x_brazil_hover";
+	this.x_brazil_hover.parent = this;
+	this.x_brazil_hover.setTransform(-17,-1.1);
+	new cjs.ButtonHelper(this.x_brazil_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_brazil_hover},{t:this.text_25},{t:this.instance_107},{t:this.instance_106},{t:this.instance_105},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.instance_87},{t:this.instance_86},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.instance_82},{t:this.instance_81},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.instance_71},{t:this.instance_70},{t:this.instance_69},{t:this.instance_68},{t:this.text_24},{t:this.text_23},{t:this.instance_67},{t:this.instance_66},{t:this.text_22},{t:this.instance_65},{t:this.instance_64},{t:this.instance_63},{t:this.text_21},{t:this.instance_62},{t:this.text_20},{t:this.instance_61},{t:this.text_19},{t:this.text_18},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.text_17},{t:this.instance_57},{t:this.instance_56},{t:this.instance_55},{t:this.instance_54},{t:this.instance_53},{t:this.instance_52},{t:this.text_16},{t:this.text_15},{t:this.instance_51},{t:this.text_14},{t:this.instance_50},{t:this.text_13},{t:this.instance_49},{t:this.instance_48},{t:this.instance_47},{t:this.instance_46},{t:this.instance_45},{t:this.instance_44},{t:this.text_12},{t:this.text_11},{t:this.instance_43},{t:this.instance_42},{t:this.text_10},{t:this.instance_41},{t:this.instance_40},{t:this.text_9},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.text_8},{t:this.text_7},{t:this.instance_33},{t:this.text_6},{t:this.instance_32},{t:this.text_5},{t:this.instance_31},{t:this.text_4},{t:this.text_3},{t:this.instance_30},{t:this.instance_29},{t:this.text_2},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.text_1},{t:this.text},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.instance},{t:this.x_brazil}]}).wait(1));
 
 	// flash0_ai
 	this.instance_108 = new lib.CachedTexturedBitmap_1256();
@@ -14159,12 +14262,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.timeline.addTween(cjs.Tween.get(this.instance).wait(1));
 
 	// flash0_ai
-	this.x_australia = new lib.xClose();
-	this.x_australia.name = "x_australia";
-	this.x_australia.parent = this;
-	this.x_australia.setTransform(-17.85,-0.5);
-	new cjs.ButtonHelper(this.x_australia, 0, 1, 1);
-
 	this.instance_1 = new lib.CachedTexturedBitmap_123();
 	this.instance_1.parent = this;
 	this.instance_1.setTransform(261.55,181.95,0.5,0.5);
@@ -14860,7 +14957,19 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.text_25.parent = this;
 	this.text_25.setTransform(693.65,25.65);
 
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.text_25},{t:this.instance_127},{t:this.instance_126},{t:this.instance_125},{t:this.instance_124},{t:this.instance_123},{t:this.instance_122},{t:this.instance_121},{t:this.instance_120},{t:this.instance_119},{t:this.instance_118},{t:this.instance_117},{t:this.instance_116},{t:this.instance_115},{t:this.instance_114},{t:this.instance_113},{t:this.instance_112},{t:this.instance_111},{t:this.instance_110},{t:this.instance_109},{t:this.instance_108},{t:this.instance_107},{t:this.instance_106},{t:this.instance_105},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.text_24},{t:this.text_23},{t:this.instance_87},{t:this.instance_86},{t:this.text_22},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.text_21},{t:this.instance_82},{t:this.text_20},{t:this.instance_81},{t:this.text_19},{t:this.text_18},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.text_17},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.text_16},{t:this.text_15},{t:this.instance_71},{t:this.text_14},{t:this.instance_70},{t:this.text_13},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.text_12},{t:this.text_11},{t:this.instance_63},{t:this.instance_62},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.text_10},{t:this.text_9},{t:this.instance_57},{t:this.instance_56},{t:this.text_8},{t:this.instance_55},{t:this.instance_54},{t:this.text_7},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_6},{t:this.text_5},{t:this.instance_47},{t:this.text_4},{t:this.instance_46},{t:this.text_3},{t:this.instance_45},{t:this.text_2},{t:this.text_1},{t:this.instance_44},{t:this.instance_43},{t:this.text},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1},{t:this.x_australia}]}).wait(1));
+	this.x_australia = new lib.xClose();
+	this.x_australia.name = "x_australia";
+	this.x_australia.parent = this;
+	this.x_australia.setTransform(-17.85,-0.5);
+	new cjs.ButtonHelper(this.x_australia, 0, 1, 1);
+
+	this.x_australia_hover = new lib.xCloseHover();
+	this.x_australia_hover.name = "x_australia_hover";
+	this.x_australia_hover.parent = this;
+	this.x_australia_hover.setTransform(-17.6,-0.15);
+	new cjs.ButtonHelper(this.x_australia_hover, 0, 1, 1);
+
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.x_australia_hover},{t:this.x_australia},{t:this.text_25},{t:this.instance_127},{t:this.instance_126},{t:this.instance_125},{t:this.instance_124},{t:this.instance_123},{t:this.instance_122},{t:this.instance_121},{t:this.instance_120},{t:this.instance_119},{t:this.instance_118},{t:this.instance_117},{t:this.instance_116},{t:this.instance_115},{t:this.instance_114},{t:this.instance_113},{t:this.instance_112},{t:this.instance_111},{t:this.instance_110},{t:this.instance_109},{t:this.instance_108},{t:this.instance_107},{t:this.instance_106},{t:this.instance_105},{t:this.instance_104},{t:this.instance_103},{t:this.instance_102},{t:this.instance_101},{t:this.instance_100},{t:this.instance_99},{t:this.instance_98},{t:this.instance_97},{t:this.instance_96},{t:this.instance_95},{t:this.instance_94},{t:this.instance_93},{t:this.instance_92},{t:this.instance_91},{t:this.instance_90},{t:this.instance_89},{t:this.instance_88},{t:this.text_24},{t:this.text_23},{t:this.instance_87},{t:this.instance_86},{t:this.text_22},{t:this.instance_85},{t:this.instance_84},{t:this.instance_83},{t:this.text_21},{t:this.instance_82},{t:this.text_20},{t:this.instance_81},{t:this.text_19},{t:this.text_18},{t:this.instance_80},{t:this.instance_79},{t:this.instance_78},{t:this.text_17},{t:this.instance_77},{t:this.instance_76},{t:this.instance_75},{t:this.instance_74},{t:this.instance_73},{t:this.instance_72},{t:this.text_16},{t:this.text_15},{t:this.instance_71},{t:this.text_14},{t:this.instance_70},{t:this.text_13},{t:this.instance_69},{t:this.instance_68},{t:this.instance_67},{t:this.instance_66},{t:this.instance_65},{t:this.instance_64},{t:this.text_12},{t:this.text_11},{t:this.instance_63},{t:this.instance_62},{t:this.instance_61},{t:this.instance_60},{t:this.instance_59},{t:this.instance_58},{t:this.text_10},{t:this.text_9},{t:this.instance_57},{t:this.instance_56},{t:this.text_8},{t:this.instance_55},{t:this.instance_54},{t:this.text_7},{t:this.instance_53},{t:this.instance_52},{t:this.instance_51},{t:this.instance_50},{t:this.instance_49},{t:this.instance_48},{t:this.text_6},{t:this.text_5},{t:this.instance_47},{t:this.text_4},{t:this.instance_46},{t:this.text_3},{t:this.instance_45},{t:this.text_2},{t:this.text_1},{t:this.instance_44},{t:this.instance_43},{t:this.text},{t:this.instance_42},{t:this.instance_41},{t:this.instance_40},{t:this.instance_39},{t:this.instance_38},{t:this.instance_37},{t:this.instance_36},{t:this.instance_35},{t:this.instance_34},{t:this.instance_33},{t:this.instance_32},{t:this.instance_31},{t:this.instance_30},{t:this.instance_29},{t:this.instance_28},{t:this.instance_27},{t:this.instance_26},{t:this.instance_25},{t:this.instance_24},{t:this.instance_23},{t:this.instance_22},{t:this.instance_21},{t:this.instance_20},{t:this.instance_19},{t:this.instance_18},{t:this.instance_17},{t:this.instance_16},{t:this.instance_15},{t:this.instance_14},{t:this.instance_13},{t:this.instance_12},{t:this.instance_11},{t:this.instance_10},{t:this.instance_9},{t:this.instance_8},{t:this.instance_7},{t:this.instance_6},{t:this.instance_5},{t:this.instance_4},{t:this.instance_3},{t:this.instance_2},{t:this.instance_1}]}).wait(1));
 
 	// flash0_ai
 	this.instance_128 = new lib.CachedTexturedBitmap_1256();
@@ -14878,28 +14987,42 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 
 	// timeline functions:
 	this.frame_0 = function() {
-		self = this;  
+		self = this;
 		stage.enableMouseOver(24);
 		
 		//explanation change hidden
-		self.boldEx2.visible=false;
-		self.regularEx2.visible=false;
+		self.boldEx2.visible = false;
+		self.regularEx2.visible = false;
 		
 		//country boxes hidden
-		self.italyBox.visible=false;
-		self.australiaBox.visible=false;
-		self.usaBox.visible=false;
-		self.brazilBox.visible=false;
-		self.germanyBox.visible=false;
-		self.southafricaBox.visible=false;
-		self.indiaBox.visible=false;
-		self.greeceBox.visible=false;
-		self.japanBox.visible=false;
-		self.israelBox.visible=false;
-		self.chinaBox.visible=false;
-		self.franceBox.visible=false;
-		self.canadaBox.visible=false;
+		self.italyBox.visible = false;
+		self.australiaBox.visible = false;
+		self.usaBox.visible = false;
+		self.brazilBox.visible = false;
+		self.germanyBox.visible = false;
+		self.southafricaBox.visible = false;
+		self.indiaBox.visible = false;
+		self.greeceBox.visible = false;
+		self.japanBox.visible = false;
+		self.israelBox.visible = false;
+		self.chinaBox.visible = false;
+		self.franceBox.visible = false;
+		self.canadaBox.visible = false;
 		
+		//close button change hidden
+		self.italyBox.x_italy_hover.visible = false;
+		self.australiaBox.x_australia_hover.visible=false;
+		self.usaBox.x_usa_hover.visible=false;
+		self.brazilBox.x_brazil_hover.visible=false;
+		self.germanyBox.x_germany_hover.visible=false;
+		self.southafricaBox.x_southafrica_hover.visible=false;
+		self.indiaBox.x_india_hover.visible=false;
+		self.greeceBox.x_greece_hover.visible=false;
+		self.japanBox.x_japan_hover.visible=false;
+		self.israelBox.x_israel_hover.visible=false;
+		self.chinaBox.x_china_hover.visible=false;
+		self.franceBox.x_france_hover.visible=false;
+		self.canadaBox.x_canada_hover.visible=false;
 		
 		//italy over
 		
@@ -14909,94 +15032,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.italyFlagC.addEventListener("mouseover", italyOver);
 		self.italyFlagD.addEventListener("mouseover", italyOver);
 		
-		function italyOver(){
+		function italyOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.italyTXT.addEventListener("mouseout", italyOut);
@@ -15004,94 +15127,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.italyFlagB.addEventListener("mouseout", italyOut);
 		self.italyFlagC.addEventListener("mouseout", italyOut);
 		self.italyFlagD.addEventListener("mouseout", italyOut);
-		function italyOut(){
+		function italyOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -15103,94 +15226,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.australiaFlagC.addEventListener("mouseover", australiaOver);
 		self.australiaFlagD.addEventListener("mouseover", australiaOver);
 		
-		function australiaOver(){
+		function australiaOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.australiaTXT.addEventListener("mouseout", australiaOut);
@@ -15199,94 +15322,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.australiaFlagC.addEventListener("mouseout", australiaOut);
 		self.australiaFlagD.addEventListener("mouseout", australiaOut);
 		
-		function australiaOut(){
+		function australiaOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -15299,94 +15422,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.usaFlagC.addEventListener("mouseover", usaOver);
 		self.usaFlagD.addEventListener("mouseover", usaOver);
 		
-		function usaOver(){
+		function usaOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;	
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.usaTXT.addEventListener("mouseout", usaOut);
@@ -15394,94 +15517,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.usaFlagB.addEventListener("mouseout", usaOut);
 		self.usaFlagC.addEventListener("mouseout", usaOut);
 		self.usaFlagD.addEventListener("mouseout", usaOut);
-		function usaOut(){
+		function usaOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -15493,94 +15616,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.brazilFlagC.addEventListener("mouseover", brazilOver);
 		self.brazilFlagD.addEventListener("mouseover", brazilOver);
 		
-		function brazilOver(){
+		function brazilOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.brazilTXT.addEventListener("mouseout", brazilOut);
@@ -15589,94 +15712,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.brazilFlagC.addEventListener("mouseout", brazilOut);
 		self.brazilFlagD.addEventListener("mouseout", brazilOut);
 		
-		function brazilOut(){
+		function brazilOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -15688,94 +15811,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.germanyFlagC.addEventListener("mouseover", germanyOver);
 		self.germanyFlagD.addEventListener("mouseover", germanyOver);
 		
-		function germanyOver(){
+		function germanyOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.germanyTXT.addEventListener("mouseout", germanyOut);
@@ -15783,94 +15906,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.germanyFlagB.addEventListener("mouseout", germanyOut);
 		self.germanyFlagC.addEventListener("mouseout", germanyOut);
 		self.germanyFlagD.addEventListener("mouseout", germanyOut);
-		function germanyOut(){
+		function germanyOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -15883,94 +16006,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.southafricaFlagC.addEventListener("mouseover", southafricaOver);
 		self.southafricaFlagD.addEventListener("mouseover", southafricaOver);
 		
-		function southafricaOver(){
+		function southafricaOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.southafricaTXT.addEventListener("mouseout", southafricaOut);
@@ -15979,94 +16102,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.southafricaFlagC.addEventListener("mouseout", southafricaOut);
 		self.southafricaFlagD.addEventListener("mouseout", southafricaOut);
 		
-		function southafricaOut(){
+		function southafricaOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -16080,94 +16203,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.indiaFlagC.addEventListener("mouseover", indiaOver);
 		self.indiaFlagD.addEventListener("mouseover", indiaOver);
 		
-		function indiaOver(){
+		function indiaOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.indiaTXT.addEventListener("mouseout", indiaOut);
@@ -16175,94 +16298,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.indiaFlagB.addEventListener("mouseout", indiaOut);
 		self.indiaFlagC.addEventListener("mouseout", indiaOut);
 		self.indiaFlagD.addEventListener("mouseout", indiaOut);
-		function indiaOut(){
+		function indiaOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -16274,94 +16397,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.greeceFlagC.addEventListener("mouseover", greeceOver);
 		self.greeceFlagD.addEventListener("mouseover", greeceOver);
 		
-		function greeceOver(){
+		function greeceOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.greeceTXT.addEventListener("mouseout", greeceOut);
@@ -16369,94 +16492,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.greeceFlagB.addEventListener("mouseout", greeceOut);
 		self.greeceFlagC.addEventListener("mouseout", greeceOut);
 		self.greeceFlagD.addEventListener("mouseout", greeceOut);
-		function greeceOut(){
+		function greeceOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -16471,94 +16594,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.japanFlagC.addEventListener("mouseover", japanOver);
 		self.japanFlagD.addEventListener("mouseover", japanOver);
 		
-		function japanOver(){
+		function japanOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.japanTXT.addEventListener("mouseout", japanOut);
@@ -16566,94 +16689,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.japanFlagB.addEventListener("mouseout", japanOut);
 		self.japanFlagC.addEventListener("mouseout", japanOut);
 		self.japanFlagD.addEventListener("mouseout", japanOut);
-		function japanOut(){
+		function japanOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -16666,98 +16789,98 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.israelFlagC.addEventListener("mouseover", israelOver);
 		self.israelFlagD.addEventListener("mouseover", israelOver);
 		
-		function israelOver(){
+		function israelOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.israelTXT.addEventListener("mouseout", israelOut);
@@ -16765,98 +16888,98 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.israelFlagB.addEventListener("mouseout", israelOut);
 		self.israelFlagC.addEventListener("mouseout", israelOut);
 		self.israelFlagD.addEventListener("mouseout", israelOut);
-		function israelOut(){
+		function israelOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -16869,94 +16992,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.chinaFlagC.addEventListener("mouseover", chinaOver);
 		self.chinaFlagD.addEventListener("mouseover", chinaOver);
 		
-		function chinaOver(){
+		function chinaOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.chinaTXT.addEventListener("mouseout", chinaOut);
@@ -16964,94 +17087,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.chinaFlagB.addEventListener("mouseout", chinaOut);
 		self.chinaFlagC.addEventListener("mouseout", chinaOut);
 		self.chinaFlagD.addEventListener("mouseout", chinaOut);
-		function chinaOut(){
+		function chinaOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -17063,94 +17186,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.franceFlagC.addEventListener("mouseover", franceOver);
 		self.franceFlagD.addEventListener("mouseover", franceOver);
 		
-		function franceOver(){
+		function franceOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//southafrica
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.chinaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.chinaFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//canada
-			self.canadaTXT.alpha=0.1;
-			self.canadaFlagA.alpha=0.05;
-			self.canadaFlagB.alpha=0.05;
-			self.canadaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.canadaTXT.alpha = 0.1;
+			self.canadaFlagA.alpha = 0.05;
+			self.canadaFlagB.alpha = 0.05;
+			self.canadaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.franceTXT.addEventListener("mouseout", franceOut);
@@ -17159,94 +17282,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.franceFlagC.addEventListener("mouseout", franceOut);
 		self.franceFlagD.addEventListener("mouseout", franceOut);
 		
-		function franceOut(){
+		function franceOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//south africa
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//southafrica
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//canada
-			self.canadaTXT.alpha=1;
-			self.canadaFlagA.alpha=1;
-			self.canadaFlagB.alpha=1;
-			self.canadaFlagC.alpha=1;
-			self.canadaFlagD.alpha=1;
-			
+			self.canadaTXT.alpha = 1;
+			self.canadaFlagA.alpha = 1;
+			self.canadaFlagB.alpha = 1;
+			self.canadaFlagC.alpha = 1;
+			self.canadaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -17259,94 +17382,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.canadaFlagC.addEventListener("mouseover", canadaOver);
 		self.canadaFlagD.addEventListener("mouseover", canadaOver);
 		
-		function canadaOver(){
+		function canadaOver() {
 			//explanation change
-			self.boldEx1.visible=false;
-			self.regularEx1.visible=false;
-			
-			self.boldEx2.visible=true;
-			self.regularEx2.visible=true;
-			
+			self.boldEx1.visible = false;
+			self.regularEx1.visible = false;
+		
+			self.boldEx2.visible = true;
+			self.regularEx2.visible = true;
+		
 			//australia
-			self.australiaTXT.alpha=0.1;
-			self.australiaFlagA.alpha=0.05;
-			self.australiaFlagB.alpha=0.05;
-			self.australiaFlagC.alpha=0.05;
-			self.australiaFlagD.alpha=0.05;
-			
+			self.australiaTXT.alpha = 0.1;
+			self.australiaFlagA.alpha = 0.05;
+			self.australiaFlagB.alpha = 0.05;
+			self.australiaFlagC.alpha = 0.05;
+			self.australiaFlagD.alpha = 0.05;
+		
 			//italy
-			self.italyTXT.alpha=0.1;
-			self.italyFlagA.alpha=0.05;
-			self.italyFlagB.alpha=0.05;
-			self.italyFlagC.alpha=0.05;
-			self.italyFlagD.alpha=0.05;
-			
+			self.italyTXT.alpha = 0.1;
+			self.italyFlagA.alpha = 0.05;
+			self.italyFlagB.alpha = 0.05;
+			self.italyFlagC.alpha = 0.05;
+			self.italyFlagD.alpha = 0.05;
+		
 			//brazil
-			self.brazilTXT.alpha=0.1;
-			self.brazilFlagA.alpha=0.05;
-			self.brazilFlagB.alpha=0.05;
-			self.brazilFlagC.alpha=0.05;
-			self.brazilFlagD.alpha=0.05;
-			
+			self.brazilTXT.alpha = 0.1;
+			self.brazilFlagA.alpha = 0.05;
+			self.brazilFlagB.alpha = 0.05;
+			self.brazilFlagC.alpha = 0.05;
+			self.brazilFlagD.alpha = 0.05;
+		
 			//usa
-			self.usaTXT.alpha=0.1;
-			self.usaFlagA.alpha=0.05;
-			self.usaFlagB.alpha=0.05;
-			self.usaFlagC.alpha=0.05;
-			self.usaFlagD.alpha=0.05;
-			
+			self.usaTXT.alpha = 0.1;
+			self.usaFlagA.alpha = 0.05;
+			self.usaFlagB.alpha = 0.05;
+			self.usaFlagC.alpha = 0.05;
+			self.usaFlagD.alpha = 0.05;
+		
 			//south africa
-			self.southafricaTXT.alpha=0.1;
-			self.southafricaFlagA.alpha=0.05;
-			self.southafricaFlagB.alpha=0.05;
-			self.southafricaFlagC.alpha=0.05;
-			self.southafricaFlagD.alpha=0.05;
-			
+			self.southafricaTXT.alpha = 0.1;
+			self.southafricaFlagA.alpha = 0.05;
+			self.southafricaFlagB.alpha = 0.05;
+			self.southafricaFlagC.alpha = 0.05;
+			self.southafricaFlagD.alpha = 0.05;
+		
 			//germany
-			self.germanyTXT.alpha=0.1;
-			self.germanyFlagA.alpha=0.05;
-			self.germanyFlagB.alpha=0.05;
-			self.germanyFlagC.alpha=0.05;
-			self.germanyFlagD.alpha=0.05;
-			
+			self.germanyTXT.alpha = 0.1;
+			self.germanyFlagA.alpha = 0.05;
+			self.germanyFlagB.alpha = 0.05;
+			self.germanyFlagC.alpha = 0.05;
+			self.germanyFlagD.alpha = 0.05;
+		
 			//greece
-			self.greeceTXT.alpha=0.1;
-			self.greeceFlagA.alpha=0.05;
-			self.greeceFlagB.alpha=0.05;
-			self.greeceFlagC.alpha=0.05;
-			self.greeceFlagD.alpha=0.05;
-			
+			self.greeceTXT.alpha = 0.1;
+			self.greeceFlagA.alpha = 0.05;
+			self.greeceFlagB.alpha = 0.05;
+			self.greeceFlagC.alpha = 0.05;
+			self.greeceFlagD.alpha = 0.05;
+		
 			//india
-			self.indiaTXT.alpha=0.1;
-			self.indiaFlagA.alpha=0.05;
-			self.indiaFlagB.alpha=0.05;
-			self.indiaFlagC.alpha=0.05;
-			self.indiaFlagD.alpha=0.05;
-			
+			self.indiaTXT.alpha = 0.1;
+			self.indiaFlagA.alpha = 0.05;
+			self.indiaFlagB.alpha = 0.05;
+			self.indiaFlagC.alpha = 0.05;
+			self.indiaFlagD.alpha = 0.05;
+		
 			//israel
-			self.israelTXT.alpha=0.1;
-			
+			self.israelTXT.alpha = 0.1;
+		
 			//japan
-			self.japanTXT.alpha=0.1;
-			self.japanFlagA.alpha=0.05;
-			self.japanFlagB.alpha=0.05;
-			self.japanFlagC.alpha=0.05;
-			self.japanFlagD.alpha=0.05;
-			
+			self.japanTXT.alpha = 0.1;
+			self.japanFlagA.alpha = 0.05;
+			self.japanFlagB.alpha = 0.05;
+			self.japanFlagC.alpha = 0.05;
+			self.japanFlagD.alpha = 0.05;
+		
 			//france
-			self.franceTXT.alpha=0.1;
-			self.franceFlagA.alpha=0.05;
-			self.franceFlagB.alpha=0.05;
-			self.franceFlagC.alpha=0.05;
-			self.franceFlagD.alpha=0.05;
-			
+			self.franceTXT.alpha = 0.1;
+			self.franceFlagA.alpha = 0.05;
+			self.franceFlagB.alpha = 0.05;
+			self.franceFlagC.alpha = 0.05;
+			self.franceFlagD.alpha = 0.05;
+		
 			//china
-			self.chinaTXT.alpha=0.1;
-			self.chinaFlagA.alpha=0.05;
-			self.chinaFlagB.alpha=0.05;
-			self.chinaFlagC.alpha=0.05;
-			self.canadaFlagD.alpha=0.05;
-			
+			self.chinaTXT.alpha = 0.1;
+			self.chinaFlagA.alpha = 0.05;
+			self.chinaFlagB.alpha = 0.05;
+			self.chinaFlagC.alpha = 0.05;
+			self.canadaFlagD.alpha = 0.05;
+		
 		}
 		
 		self.canadaTXT.addEventListener("mouseout", canadaOut);
@@ -17354,94 +17477,94 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.canadaFlagB.addEventListener("mouseout", canadaOut);
 		self.canadaFlagC.addEventListener("mouseout", canadaOut);
 		self.canadaFlagD.addEventListener("mouseout", canadaOut);
-		function canadaOut(){
+		function canadaOut() {
 			//explanation change
-			self.boldEx1.visible=true;
-			self.regularEx1.visible=true;
-			
-			self.boldEx2.visible=false;
-			self.regularEx2.visible=false;
-			
+			self.boldEx1.visible = true;
+			self.regularEx1.visible = true;
+		
+			self.boldEx2.visible = false;
+			self.regularEx2.visible = false;
+		
 			//australia
-			self.australiaTXT.alpha=1;
-			self.australiaFlagA.alpha=1;
-			self.australiaFlagB.alpha=1;
-			self.australiaFlagC.alpha=1;
-			self.australiaFlagD.alpha=1;
-			
+			self.australiaTXT.alpha = 1;
+			self.australiaFlagA.alpha = 1;
+			self.australiaFlagB.alpha = 1;
+			self.australiaFlagC.alpha = 1;
+			self.australiaFlagD.alpha = 1;
+		
 			//italy
-			self.italyTXT.alpha=1;
-			self.italyFlagA.alpha=1;
-			self.italyFlagB.alpha=1;
-			self.italyFlagC.alpha=1;
-			self.italyFlagD.alpha=1;
-			
+			self.italyTXT.alpha = 1;
+			self.italyFlagA.alpha = 1;
+			self.italyFlagB.alpha = 1;
+			self.italyFlagC.alpha = 1;
+			self.italyFlagD.alpha = 1;
+		
 			//brazil
-			self.brazilTXT.alpha=1;
-			self.brazilFlagA.alpha=1;
-			self.brazilFlagB.alpha=1;
-			self.brazilFlagC.alpha=1;
-			self.brazilFlagD.alpha=1;
-			
+			self.brazilTXT.alpha = 1;
+			self.brazilFlagA.alpha = 1;
+			self.brazilFlagB.alpha = 1;
+			self.brazilFlagC.alpha = 1;
+			self.brazilFlagD.alpha = 1;
+		
 			//usa
-			self.usaTXT.alpha=1;
-			self.usaFlagA.alpha=1;
-			self.usaFlagB.alpha=1;
-			self.usaFlagC.alpha=1;
-			self.usaFlagD.alpha=1;
-			
+			self.usaTXT.alpha = 1;
+			self.usaFlagA.alpha = 1;
+			self.usaFlagB.alpha = 1;
+			self.usaFlagC.alpha = 1;
+			self.usaFlagD.alpha = 1;
+		
 			//south africa
-			self.southafricaTXT.alpha=1;
-			self.southafricaFlagA.alpha=1;
-			self.southafricaFlagB.alpha=1;
-			self.southafricaFlagC.alpha=1;
-			self.southafricaFlagD.alpha=1;
-			
+			self.southafricaTXT.alpha = 1;
+			self.southafricaFlagA.alpha = 1;
+			self.southafricaFlagB.alpha = 1;
+			self.southafricaFlagC.alpha = 1;
+			self.southafricaFlagD.alpha = 1;
+		
 			//germany
-			self.germanyTXT.alpha=1;
-			self.germanyFlagA.alpha=1;
-			self.germanyFlagB.alpha=1;
-			self.germanyFlagC.alpha=1;
-			self.germanyFlagD.alpha=1;
-			
+			self.germanyTXT.alpha = 1;
+			self.germanyFlagA.alpha = 1;
+			self.germanyFlagB.alpha = 1;
+			self.germanyFlagC.alpha = 1;
+			self.germanyFlagD.alpha = 1;
+		
 			//greece
-			self.greeceTXT.alpha=1;
-			self.greeceFlagA.alpha=1;
-			self.greeceFlagB.alpha=1;
-			self.greeceFlagC.alpha=1;
-			self.greeceFlagD.alpha=1;
-			
+			self.greeceTXT.alpha = 1;
+			self.greeceFlagA.alpha = 1;
+			self.greeceFlagB.alpha = 1;
+			self.greeceFlagC.alpha = 1;
+			self.greeceFlagD.alpha = 1;
+		
 			//india
-			self.indiaTXT.alpha=1;
-			self.indiaFlagA.alpha=1;
-			self.indiaFlagB.alpha=1;
-			self.indiaFlagC.alpha=1;
-			self.indiaFlagD.alpha=1;
-			
+			self.indiaTXT.alpha = 1;
+			self.indiaFlagA.alpha = 1;
+			self.indiaFlagB.alpha = 1;
+			self.indiaFlagC.alpha = 1;
+			self.indiaFlagD.alpha = 1;
+		
 			//israel
-			self.israelTXT.alpha=1;
-			
+			self.israelTXT.alpha = 1;
+		
 			//japan
-			self.japanTXT.alpha=1;
-			self.japanFlagA.alpha=1;
-			self.japanFlagB.alpha=1;
-			self.japanFlagC.alpha=1;
-			self.japanFlagD.alpha=1;
-			
+			self.japanTXT.alpha = 1;
+			self.japanFlagA.alpha = 1;
+			self.japanFlagB.alpha = 1;
+			self.japanFlagC.alpha = 1;
+			self.japanFlagD.alpha = 1;
+		
 			//france
-			self.franceTXT.alpha=1;
-			self.franceFlagA.alpha=1;
-			self.franceFlagB.alpha=1;
-			self.franceFlagC.alpha=1;
-			self.franceFlagD.alpha=1;
-			
+			self.franceTXT.alpha = 1;
+			self.franceFlagA.alpha = 1;
+			self.franceFlagB.alpha = 1;
+			self.franceFlagC.alpha = 1;
+			self.franceFlagD.alpha = 1;
+		
 			//china
-			self.chinaTXT.alpha=1;
-			self.chinaFlagA.alpha=1;
-			self.chinaFlagB.alpha=1;
-			self.chinaFlagC.alpha=1;
-			self.chinaFlagD.alpha=1;
-			
+			self.chinaTXT.alpha = 1;
+			self.chinaFlagA.alpha = 1;
+			self.chinaFlagB.alpha = 1;
+			self.chinaFlagC.alpha = 1;
+			self.chinaFlagD.alpha = 1;
+		
 		}
 		
 		
@@ -17453,14 +17576,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.italyFlagC.addEventListener("click", italyClick);
 		self.italyFlagD.addEventListener("click", italyClick);
 		
-		function italyClick(){
-			self.italyBox.visible=true;
+		function italyClick() {
+			self.italyBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.italyBox.x_italy.addEventListener("click", italyClose);
-		function italyClose(){
-			self.italyBox.visible=false;
+		//italy x-button hover
+		
+		self.italyBox.x_italy.addEventListener("mouseover", xitalyOver);
+		function xitalyOver() {
+			self.italyBox.x_italy_hover.visible = true;
+		    self.italyBox.x_italy.visible = false;
+		}
+		
+		self.italyBox.x_italy_hover.addEventListener("mouseout", xitalyOut);
+		function xitalyOut() {
+			self.italyBox.x_italy.visible = true;
+		    self.italyBox.x_italy_hover.visible = false;
+		}
+		
+		//italy x-button click = closing italy box
+		
+		self.italyBox.x_italy_hover.addEventListener("click", italyClose);
+		function italyClose() {
+			self.italyBox.visible = false;
 			self.main.alpha = 1;
 		}
 		
@@ -17473,17 +17612,32 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.australiaFlagC.addEventListener("click", australiaClick);
 		self.australiaFlagD.addEventListener("click", australiaClick);
 		
-		function australiaClick(){
-			self.australiaBox.visible=true;
+		function australiaClick() {
+			self.australiaBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.australiaBox.x_australia.addEventListener("click", australiaClose);
-		function australiaClose(){
-			self.australiaBox.visible=false;
-			self.main.alpha = 1;
+		//australia x-button hover
+		
+		self.australiaBox.x_australia.addEventListener("mouseover", xaustraliaOver);
+		function xaustraliaOver() {
+			self.australiaBox.x_australia_hover.visible = true;
+		    self.australiaBox.x_australia.visible = false;
 		}
 		
+		self.australiaBox.x_australia_hover.addEventListener("mouseout", xaustraliaOut);
+		function xaustraliaOut() {
+			self.australiaBox.x_australia.visible = true;
+		    self.australiaBox.x_australia_hover.visible = false;
+		}
+		
+		//australia x-button click = closing australia box
+		
+		self.australiaBox.x_australia_hover.addEventListener("click", australiaClose);
+		function australiaClose() {
+			self.australiaBox.visible = false;
+			self.main.alpha = 1;
+		}
 		
 		//usa click
 		
@@ -17494,14 +17648,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.usaFlagD.addEventListener("click", usaClick);
 		
 		
-		function usaClick(){
-			self.usaBox.visible=true;
+		function usaClick() {
+			self.usaBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.usaBox.x_usa.addEventListener("click", usaClose);
-		function usaClose(){
-			self.usaBox.visible=false;
+		//usa x-button hover
+		
+		self.usaBox.x_usa.addEventListener("mouseover", xusaOver);
+		function xusaOver() {
+			self.usaBox.x_usa_hover.visible = true;
+		    self.usaBox.x_usa.visible = false;
+		}
+		
+		self.usaBox.x_usa_hover.addEventListener("mouseout", xusaOut);
+		function xusaOut() {
+			self.usaBox.x_usa.visible = true;
+		    self.usaBox.x_usa_hover.visible = false;
+		}
+		
+		//usa x-button click = closing usa box
+		
+		self.usaBox.x_usa_hover.addEventListener("click", usaClose);
+		function usaClose() {
+			self.usaBox.visible = false;
 			self.main.alpha = 1;
 		}
 		
@@ -17514,14 +17684,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.brazilFlagC.addEventListener("click", brazilClick);
 		self.brazilFlagD.addEventListener("click", brazilClick);
 		
-		function brazilClick(){
-			self.brazilBox.visible=true;
+		function brazilClick() {
+			self.brazilBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.brazilBox.x_brazil.addEventListener("click", brazilClose);
-		function brazilClose(){
-			self.brazilBox.visible=false;
+		//brazil x-button hover
+		
+		self.brazilBox.x_brazil.addEventListener("mouseover", xbrazilOver);
+		function xbrazilOver() {
+			self.brazilBox.x_brazil_hover.visible = true;
+		    self.brazilBox.x_brazil.visible = false;
+		}
+		
+		self.brazilBox.x_brazil_hover.addEventListener("mouseout", xbrazilOut);
+		function xbrazilOut() {
+			self.brazilBox.x_brazil.visible = true;
+		    self.brazilBox.x_brazil_hover.visible = false;
+		}
+		
+		//brazil x-button click = closing brazil box
+		
+		self.brazilBox.x_brazil_hover.addEventListener("click", brazilClose);
+		function brazilClose() {
+			self.brazilBox.visible = false;
 			self.main.alpha = 1;
 		}
 		
@@ -17534,14 +17720,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.germanyFlagC.addEventListener("click", germanyClick);
 		self.germanyFlagD.addEventListener("click", germanyClick);
 		
-		function germanyClick(){
-			self.germanyBox.visible=true;
+		function germanyClick() {
+			self.germanyBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.germanyBox.x_germany.addEventListener("click", germanyClose);
-		function germanyClose(){
-			self.germanyBox.visible=false;
+		//germany x-button hover
+		
+		self.germanyBox.x_germany.addEventListener("mouseover", xgermanyOver);
+		function xgermanyOver() {
+			self.germanyBox.x_germany_hover.visible = true;
+		    self.germanyBox.x_germany.visible = false;
+		}
+		
+		self.germanyBox.x_germany_hover.addEventListener("mouseout", xgermanyOut);
+		function xgermanyOut() {
+			self.germanyBox.x_germany.visible = true;
+		    self.germanyBox.x_germany_hover.visible = false;
+		}
+		
+		//germany x-button click = closing germany box
+		
+		self.germanyBox.x_germany_hover.addEventListener("click", germanyClose);
+		function germanyClose() {
+			self.germanyBox.visible = false;
 			self.main.alpha = 1;
 		}
 		
@@ -17554,14 +17756,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.southafricaFlagC.addEventListener("click", southafricaClick);
 		self.southafricaFlagD.addEventListener("click", southafricaClick);
 		
-		function southafricaClick(){
-			self.southafricaBox.visible=true;
+		function southafricaClick() {
+			self.southafricaBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.southafricaBox.x_southafrica.addEventListener("click", southafricaClose);
-		function southafricaClose(){
-			self.southafricaBox.visible=false;
+		//south africa x-button hover
+		
+		self.southafricaBox.x_southafrica.addEventListener("mouseover", xsouthafricaOver);
+		function xsouthafricaOver() {
+			self.southafricaBox.x_southafrica_hover.visible = true;
+		    self.southafricaBox.x_southafrica.visible = false;
+		}
+		
+		self.southafricaBox.x_southafrica_hover.addEventListener("mouseout", xsouthafricaOut);
+		function xsouthafricaOut() {
+			self.southafricaBox.x_southafrica.visible = true;
+		    self.southafricaBox.x_southafrica_hover.visible = false;
+		}
+		
+		//south africa x-button click = closing south africa box
+		
+		self.southafricaBox.x_southafrica_hover.addEventListener("click", southafricaClose);
+		function southafricaClose() {
+			self.southafricaBox.visible = false;
 			self.main.alpha = 1;
 		}
 		
@@ -17574,14 +17792,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.indiaFlagC.addEventListener("click", indiaClick);
 		self.indiaFlagD.addEventListener("click", indiaClick);
 		
-		function indiaClick(){
-			self.indiaBox.visible=true;
+		function indiaClick() {
+			self.indiaBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.indiaBox.x_india.addEventListener("click", indiaClose);
-		function indiaClose(){
-			self.indiaBox.visible=false;
+		//india x-button hover
+		
+		self.indiaBox.x_india.addEventListener("mouseover", xindiaOver);
+		function xindiaOver() {
+			self.indiaBox.x_india_hover.visible = true;
+		    self.indiaBox.x_india.visible = false;
+		}
+		
+		self.indiaBox.x_india_hover.addEventListener("mouseout", xindiaOut);
+		function xindiaOut() {
+			self.indiaBox.x_india.visible = true;
+		    self.indiaBox.x_india_hover.visible = false;
+		}
+		
+		//india x-button click = closing india box
+		
+		self.indiaBox.x_india_hover.addEventListener("click", indiaClose);
+		function indiaClose() {
+			self.indiaBox.visible = false;
 			self.main.alpha = 1;
 		}
 		
@@ -17594,16 +17828,33 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.greeceFlagC.addEventListener("click", greeceClick);
 		self.greeceFlagD.addEventListener("click", greeceClick);
 		
-		function greeceClick(){
-			self.greeceBox.visible=true;
+		function greeceClick() {
+			self.greeceBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.greeceBox.x_greece.addEventListener("click", greeceClose);
-		function greeceClose(){
-			self.greeceBox.visible=false;
+		//greece x-button hover
+		
+		self.greeceBox.x_greece.addEventListener("mouseover", xgreeceOver);
+		function xgreeceOver() {
+			self.greeceBox.x_greece_hover.visible = true;
+		    self.greeceBox.x_greece.visible = false;
+		}
+		
+		self.greeceBox.x_greece_hover.addEventListener("mouseout", xgreeceOut);
+		function xgreeceOut() {
+			self.greeceBox.x_greece.visible = true;
+		    self.greeceBox.x_greece_hover.visible = false;
+		}
+		
+		//greece x-button click = closing greece box
+		
+		self.greeceBox.x_greece_hover.addEventListener("click", greeceClose);
+		function greeceClose() {
+			self.greeceBox.visible = false;
 			self.main.alpha = 1;
 		}
+		
 		
 		
 		//japan click
@@ -17614,14 +17865,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.japanFlagC.addEventListener("click", japanClick);
 		self.japanFlagD.addEventListener("click", japanClick);
 		
-		function japanClick(){
-			self.japanBox.visible=true;
+		function japanClick() {
+			self.japanBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.japanBox.x_japan.addEventListener("click", japanClose);
-		function japanClose(){
-			self.japanBox.visible=false;
+		//japan x-button hover
+		
+		self.japanBox.x_japan.addEventListener("mouseover", xjapanOver);
+		function xjapanOver() {
+			self.japanBox.x_japan_hover.visible = true;
+		    self.japanBox.x_japan.visible = false;
+		}
+		
+		self.japanBox.x_japan_hover.addEventListener("mouseout", xjapanOut);
+		function xjapanOut() {
+			self.japanBox.x_japan.visible = true;
+		    self.japanBox.x_japan_hover.visible = false;
+		}
+		
+		//japan x-button click = closing japan box
+		
+		self.japanBox.x_japan_hover.addEventListener("click", japanClose);
+		function japanClose() {
+			self.japanBox.visible = false;
 			self.main.alpha = 1;
 		}
 		
@@ -17634,14 +17901,31 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.israelFlagC.addEventListener("click", israelClick);
 		self.israelFlagD.addEventListener("click", israelClick);
 		
-		function israelClick(){
-			self.israelBox.visible=true;
+		function israelClick() {
+			self.israelBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.israelBox.x_israel.addEventListener("click", israelClose);
-		function israelClose(){
-			self.israelBox.visible=false;
+		
+		//israel x-button hover
+		
+		self.israelBox.x_israel.addEventListener("mouseover", xisraelOver);
+		function xisraelOver() {
+			self.israelBox.x_israel_hover.visible = true;
+		    self.israelBox.x_israel.visible = false;
+		}
+		
+		self.israelBox.x_israel_hover.addEventListener("mouseout", xisraelOut);
+		function xisraelOut() {
+			self.israelBox.x_israel.visible = true;
+		    self.israelBox.x_israel_hover.visible = false;
+		}
+		
+		//israel x-button click = closing israel box
+		
+		self.israelBox.x_israel_hover.addEventListener("click", israelClose);
+		function israelClose() {
+			self.israelBox.visible = false;
 			self.main.alpha = 1;
 		}
 		
@@ -17654,14 +17938,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.chinaFlagC.addEventListener("click", chinaClick);
 		self.chinaFlagD.addEventListener("click", chinaClick);
 		
-		function chinaClick(){
-			self.chinaBox.visible=true;
+		function chinaClick() {
+			self.chinaBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.chinaBox.x_china.addEventListener("click", chinaClose);
-		function chinaClose(){
-			self.chinaBox.visible=false;
+		//china x-button hover
+		
+		self.chinaBox.x_china.addEventListener("mouseover", xchinaOver);
+		function xchinaOver() {
+			self.chinaBox.x_china_hover.visible = true;
+		    self.chinaBox.x_china.visible = false;
+		}
+		
+		self.chinaBox.x_china_hover.addEventListener("mouseout", xchinaOut);
+		function xchinaOut() {
+			self.chinaBox.x_china.visible = true;
+		    self.chinaBox.x_china_hover.visible = false;
+		}
+		
+		//china x-button click = closing china box
+		
+		self.chinaBox.x_china_hover.addEventListener("click", chinaClose);
+		function chinaClose() {
+			self.chinaBox.visible = false;
 			self.main.alpha = 1;
 		}
 		
@@ -17674,14 +17974,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.franceFlagC.addEventListener("click", franceClick);
 		self.franceFlagD.addEventListener("click", franceClick);
 		
-		function franceClick(){
-			self.franceBox.visible=true;
+		function franceClick() {
+			self.franceBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.franceBox.x_france.addEventListener("click", franceClose);
-		function franceClose(){
-			self.franceBox.visible=false;
+		//france x-button hover
+		
+		self.franceBox.x_france.addEventListener("mouseover", xfranceOver);
+		function xfranceOver() {
+			self.franceBox.x_france_hover.visible = true;
+		    self.franceBox.x_france.visible = false;
+		}
+		
+		self.franceBox.x_france_hover.addEventListener("mouseout", xfranceOut);
+		function xfranceOut() {
+			self.franceBox.x_france.visible = true;
+		    self.franceBox.x_france_hover.visible = false;
+		}
+		
+		//france x-button click = closing france box
+		
+		self.franceBox.x_france_hover.addEventListener("click", franceClose);
+		function franceClose() {
+			self.franceBox.visible = false;
 			self.main.alpha = 1;
 		}
 		
@@ -17694,14 +18010,30 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 		self.canadaFlagC.addEventListener("click", canadaClick);
 		self.canadaFlagD.addEventListener("click", canadaClick);
 		
-		function canadaClick(){
-			self.canadaBox.visible=true;
+		function canadaClick() {
+			self.canadaBox.visible = true;
 			self.main.alpha = 0.15;
 		}
 		
-		self.canadaBox.x_canada.addEventListener("click", canadaClose);
-		function canadaClose(){
-			self.canadaBox.visible=false;
+		//canada x-button hover
+		
+		self.canadaBox.x_canada.addEventListener("mouseover", xcanadaOver);
+		function xcanadaOver() {
+			self.canadaBox.x_canada_hover.visible = true;
+		    self.canadaBox.x_canada.visible = false;
+		}
+		
+		self.canadaBox.x_canada_hover.addEventListener("mouseout", xcanadaOut);
+		function xcanadaOut() {
+			self.canadaBox.x_canada.visible = true;
+		    self.canadaBox.x_canada_hover.visible = false;
+		}
+		
+		//canada x-button click = closing canada box
+		
+		self.canadaBox.x_canada_hover.addEventListener("click", canadaClose);
+		function canadaClose() {
+			self.canadaBox.visible = false;
 			self.main.alpha = 1;
 		}
 		//ניתן להשתמש במבחר הפונטים הזמינים בגוגל
@@ -17735,22 +18067,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 
 	// actions tween:
 	this.timeline.addTween(cjs.Tween.get(this).call(this.frame_0).wait(1));
-
-	// flash0_ai
-	this.instance = new lib.CachedTexturedBitmap_1676();
-	this.instance.parent = this;
-	this.instance.setTransform(-101.3,21.65,0.5,0.5);
-
-	this.instance_1 = new lib.CachedTexturedBitmap_1675();
-	this.instance_1.parent = this;
-	this.instance_1.setTransform(-117.45,5.5,0.5,0.5);
-
-	this.instance_2 = new lib.Path_3();
-	this.instance_2.parent = this;
-	this.instance_2.setTransform(-92.55,30.3,0.8981,0.8981,0,0,0,25.4,25.4);
-	this.instance_2.alpha = 0.75;
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_2},{t:this.instance_1},{t:this.instance}]}).wait(1));
 
 	// canada
 	this.canadaBox = new lib.canadabox();
@@ -17857,6 +18173,84 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.timeline.addTween(cjs.Tween.get(this.italyBox).wait(1));
 
 	// main
+	this.chinaTXT = new lib.china_textbox();
+	this.chinaTXT.name = "chinaTXT";
+	this.chinaTXT.parent = this;
+	this.chinaTXT.setTransform(216.1,130.55);
+	new cjs.ButtonHelper(this.chinaTXT, 0, 1, 1);
+
+	this.canadaTXT = new lib.canada_textbox();
+	this.canadaTXT.name = "canadaTXT";
+	this.canadaTXT.parent = this;
+	this.canadaTXT.setTransform(35.85,129.85);
+	new cjs.ButtonHelper(this.canadaTXT, 0, 1, 1);
+
+	this.franceTXT = new lib.france_textbox();
+	this.franceTXT.name = "franceTXT";
+	this.franceTXT.parent = this;
+	this.franceTXT.setTransform(130.05,130);
+	new cjs.ButtonHelper(this.franceTXT, 0, 1, 1);
+
+	this.israelTXT = new lib.israel_textbox();
+	this.israelTXT.name = "israelTXT";
+	this.israelTXT.parent = this;
+	this.israelTXT.setTransform(288.2,129.9,0.9881,1);
+	new cjs.ButtonHelper(this.israelTXT, 0, 1, 1);
+
+	this.japanTXT = new lib.japan_textbox();
+	this.japanTXT.name = "japanTXT";
+	this.japanTXT.parent = this;
+	this.japanTXT.setTransform(390.25,131.1);
+	new cjs.ButtonHelper(this.japanTXT, 0, 1, 1);
+
+	this.greeceTXT = new lib.greece_textbox();
+	this.greeceTXT.name = "greeceTXT";
+	this.greeceTXT.parent = this;
+	this.greeceTXT.setTransform(465.65,131.1);
+	new cjs.ButtonHelper(this.greeceTXT, 0, 1, 1);
+
+	this.indiaTXT = new lib.india_textbox();
+	this.indiaTXT.name = "indiaTXT";
+	this.indiaTXT.parent = this;
+	this.indiaTXT.setTransform(523.55,131.1);
+	new cjs.ButtonHelper(this.indiaTXT, 0, 1, 1);
+
+	this.southafricaTXT = new lib.southafrica_textbox();
+	this.southafricaTXT.name = "southafricaTXT";
+	this.southafricaTXT.parent = this;
+	this.southafricaTXT.setTransform(699.2,131.15);
+	new cjs.ButtonHelper(this.southafricaTXT, 0, 1, 1);
+
+	this.germanyTXT = new lib.germany_textbox();
+	this.germanyTXT.name = "germanyTXT";
+	this.germanyTXT.parent = this;
+	this.germanyTXT.setTransform(800.7,130.95);
+	new cjs.ButtonHelper(this.germanyTXT, 0, 1, 1);
+
+	this.brazilTXT = new lib.brazil_textbox();
+	this.brazilTXT.name = "brazilTXT";
+	this.brazilTXT.parent = this;
+	this.brazilTXT.setTransform(882.4,131.1);
+	new cjs.ButtonHelper(this.brazilTXT, 0, 1, 1);
+
+	this.usaTXT = new lib.usa_textbox();
+	this.usaTXT.name = "usaTXT";
+	this.usaTXT.parent = this;
+	this.usaTXT.setTransform(986.85,131.1);
+	new cjs.ButtonHelper(this.usaTXT, 0, 1, 1);
+
+	this.australiaTXT = new lib.australiatextbox();
+	this.australiaTXT.name = "australiaTXT";
+	this.australiaTXT.parent = this;
+	this.australiaTXT.setTransform(1119,131.1);
+	new cjs.ButtonHelper(this.australiaTXT, 0, 1, 1);
+
+	this.italyTXT = new lib.italy_textbox();
+	this.italyTXT.name = "italyTXT";
+	this.italyTXT.parent = this;
+	this.italyTXT.setTransform(1283.6,157.7,1,1,0,0,0,49.5,27.3);
+	new cjs.ButtonHelper(this.italyTXT, 0, 1, 1);
+
 	this.boldEx2 = new cjs.Text("לחץ", "bold 20px 'Open Sans Hebrew'");
 	this.boldEx2.name = "boldEx2";
 	this.boldEx2.textAlign = "center";
@@ -17872,12 +18266,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.regularEx2.lineWidth = 434;
 	this.regularEx2.parent = this;
 	this.regularEx2.setTransform(658.3,87.8);
-
-	this.chinaTXT = new lib.china_textbox();
-	this.chinaTXT.name = "chinaTXT";
-	this.chinaTXT.parent = this;
-	this.chinaTXT.setTransform(216.9,130.55);
-	new cjs.ButtonHelper(this.chinaTXT, 0, 1, 1);
 
 	this.text = new cjs.Text("חברות לפני עסקים", "16px 'Open Sans Hebrew'");
 	this.text.textAlign = "center";
@@ -18259,72 +18647,6 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.h2Dress_txt.parent = this;
 	this.h2Dress_txt.setTransform(683,222.4);
 
-	this.canadaTXT = new lib.canada_textbox();
-	this.canadaTXT.name = "canadaTXT";
-	this.canadaTXT.parent = this;
-	this.canadaTXT.setTransform(34.85,130.05);
-	new cjs.ButtonHelper(this.canadaTXT, 0, 1, 1);
-
-	this.franceTXT = new lib.france_textbox();
-	this.franceTXT.name = "franceTXT";
-	this.franceTXT.parent = this;
-	this.franceTXT.setTransform(128.7,130.05);
-	new cjs.ButtonHelper(this.franceTXT, 0, 1, 1);
-
-	this.israelTXT = new lib.israel_textbox();
-	this.israelTXT.name = "israelTXT";
-	this.israelTXT.parent = this;
-	this.israelTXT.setTransform(286.95,130.05);
-	new cjs.ButtonHelper(this.israelTXT, 0, 1, 1);
-
-	this.japanTXT = new lib.japan_textbox();
-	this.japanTXT.name = "japanTXT";
-	this.japanTXT.parent = this;
-	this.japanTXT.setTransform(390.35,131.05);
-	new cjs.ButtonHelper(this.japanTXT, 0, 1, 1);
-
-	this.greeceTXT = new lib.greece_textbox();
-	this.greeceTXT.name = "greeceTXT";
-	this.greeceTXT.parent = this;
-	this.greeceTXT.setTransform(464.45,131.05);
-	new cjs.ButtonHelper(this.greeceTXT, 0, 1, 1);
-
-	this.indiaTXT = new lib.india_textbox();
-	this.indiaTXT.name = "indiaTXT";
-	this.indiaTXT.parent = this;
-	this.indiaTXT.setTransform(521.25,131.1);
-	new cjs.ButtonHelper(this.indiaTXT, 0, 1, 1);
-
-	this.southafricaTXT = new lib.southafrica_textbox();
-	this.southafricaTXT.name = "southafricaTXT";
-	this.southafricaTXT.parent = this;
-	this.southafricaTXT.setTransform(699.8,131.05);
-	new cjs.ButtonHelper(this.southafricaTXT, 0, 1, 1);
-
-	this.germanyTXT = new lib.germany_textbox();
-	this.germanyTXT.name = "germanyTXT";
-	this.germanyTXT.parent = this;
-	this.germanyTXT.setTransform(797.55,131.05);
-	new cjs.ButtonHelper(this.germanyTXT, 0, 1, 1);
-
-	this.brazilTXT = new lib.brazil_textbox();
-	this.brazilTXT.name = "brazilTXT";
-	this.brazilTXT.parent = this;
-	this.brazilTXT.setTransform(880.2,131.1);
-	new cjs.ButtonHelper(this.brazilTXT, 0, 1, 1);
-
-	this.usaTXT = new lib.usa_textbox();
-	this.usaTXT.name = "usaTXT";
-	this.usaTXT.parent = this;
-	this.usaTXT.setTransform(986.5,131.1);
-	new cjs.ButtonHelper(this.usaTXT, 0, 1, 1);
-
-	this.australiaTXT = new lib.australiatextbox();
-	this.australiaTXT.name = "australiaTXT";
-	this.australiaTXT.parent = this;
-	this.australiaTXT.setTransform(1122.05,131.05);
-	new cjs.ButtonHelper(this.australiaTXT, 0, 1, 1);
-
 	this.boldEx1 = new cjs.Text("עבור", "bold 20px 'Open Sans Hebrew'");
 	this.boldEx1.name = "boldEx1";
 	this.boldEx1.textAlign = "center";
@@ -18429,20 +18751,14 @@ p.nominalBounds = new cjs.Rectangle(0,0,127,127.1);
 	this.greeceFlagD.setTransform(269.9,714.95,0.2943,0.2943,0,0,0,63.7,63.2);
 	new cjs.ButtonHelper(this.greeceFlagD, 0, 1, 1);
 
-	this.italyTXT = new lib.italy_textbox();
-	this.italyTXT.name = "italyTXT";
-	this.italyTXT.parent = this;
-	this.italyTXT.setTransform(1288.85,158.2,1,1,0,0,0,49.5,27.3);
-	new cjs.ButtonHelper(this.italyTXT, 0, 1, 1);
+	this.instance = new lib.CachedTexturedBitmap_1709();
+	this.instance.parent = this;
+	this.instance.setTransform(-0.25,130.6,0.5,0.5);
 
-	this.instance_3 = new lib.CachedTexturedBitmap_1();
-	this.instance_3.parent = this;
-	this.instance_3.setTransform(-0.25,130.6,0.5,0.5);
-
-	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance_3},{t:this.italyTXT},{t:this.greeceFlagD},{t:this.h2Attitude_txt},{t:this.southafricaFlagA},{t:this.australiaFlagA},{t:this.canadaFlagA},{t:this.brazilFlagA},{t:this.usaFlagA},{t:this.chinaFlagA},{t:this.germanyFlagA},{t:this.italyFlagA},{t:this.japanFlagA},{t:this.israelFlagA},{t:this.greeceFlagA},{t:this.h1_txt},{t:this.regularEx1},{t:this.boldEx1},{t:this.australiaTXT},{t:this.usaTXT},{t:this.brazilTXT},{t:this.germanyTXT},{t:this.southafricaTXT},{t:this.indiaTXT},{t:this.greeceTXT},{t:this.japanTXT},{t:this.israelTXT},{t:this.franceTXT},{t:this.canadaTXT},{t:this.h2Dress_txt},{t:this.h2Time_txt},{t:this.southafricaFlagB},{t:this.canadaFlagB},{t:this.brazilFlagB},{t:this.franceFlagB},{t:this.germanyFlagB},{t:this.italyFlagB},{t:this.israelFlagB},{t:this.indiaFlagB},{t:this.greeceFlagB},{t:this.australiaFlagB},{t:this.h2Communication_txt},{t:this.southafricaFlagC},{t:this.canadaFlagC},{t:this.brazilFlagC},{t:this.franceFlagC},{t:this.japanFlagC},{t:this.israelFlagC},{t:this.germanyFlagC},{t:this.indiaFlagC},{t:this.greeceFlagC},{t:this.italyFlagC},{t:this.australiaFlagC},{t:this.southafricaFlagD},{t:this.canadaFlagD},{t:this.brazilFlagD},{t:this.franceFlagD},{t:this.australiaFlagD},{t:this.germanyFlagD},{t:this.italyFlagD},{t:this.israelFlagD},{t:this.indiaFlagD},{t:this.franceFlagA},{t:this.indiaFlagA},{t:this.usaFlagB},{t:this.fornaldress},{t:this.formaldress_expl},{t:this.chinaFlagB},{t:this.japanFlagB},{t:this.text_11},{t:this.text_10},{t:this.text_9},{t:this.text_8},{t:this.usaFlagC},{t:this.chinaFlagC},{t:this.chinaFlagD},{t:this.japanFlagD},{t:this.usaFlagD},{t:this.text_7},{t:this.text_6},{t:this.everydaydress},{t:this.everydaydress_expl},{t:this.text_5},{t:this.text_4},{t:this.text_3},{t:this.text_2},{t:this.text_1},{t:this.text},{t:this.chinaTXT},{t:this.regularEx2},{t:this.boldEx2}]}).wait(1));
+	this.timeline.addTween(cjs.Tween.get({}).to({state:[{t:this.instance},{t:this.greeceFlagD},{t:this.h2Attitude_txt},{t:this.southafricaFlagA},{t:this.australiaFlagA},{t:this.canadaFlagA},{t:this.brazilFlagA},{t:this.usaFlagA},{t:this.chinaFlagA},{t:this.germanyFlagA},{t:this.italyFlagA},{t:this.japanFlagA},{t:this.israelFlagA},{t:this.greeceFlagA},{t:this.h1_txt},{t:this.regularEx1},{t:this.boldEx1},{t:this.h2Dress_txt},{t:this.h2Time_txt},{t:this.southafricaFlagB},{t:this.canadaFlagB},{t:this.brazilFlagB},{t:this.franceFlagB},{t:this.germanyFlagB},{t:this.italyFlagB},{t:this.israelFlagB},{t:this.indiaFlagB},{t:this.greeceFlagB},{t:this.australiaFlagB},{t:this.h2Communication_txt},{t:this.southafricaFlagC},{t:this.canadaFlagC},{t:this.brazilFlagC},{t:this.franceFlagC},{t:this.japanFlagC},{t:this.israelFlagC},{t:this.germanyFlagC},{t:this.indiaFlagC},{t:this.greeceFlagC},{t:this.italyFlagC},{t:this.australiaFlagC},{t:this.southafricaFlagD},{t:this.canadaFlagD},{t:this.brazilFlagD},{t:this.franceFlagD},{t:this.australiaFlagD},{t:this.germanyFlagD},{t:this.italyFlagD},{t:this.israelFlagD},{t:this.indiaFlagD},{t:this.franceFlagA},{t:this.indiaFlagA},{t:this.usaFlagB},{t:this.fornaldress},{t:this.formaldress_expl},{t:this.chinaFlagB},{t:this.japanFlagB},{t:this.text_11},{t:this.text_10},{t:this.text_9},{t:this.text_8},{t:this.usaFlagC},{t:this.chinaFlagC},{t:this.chinaFlagD},{t:this.japanFlagD},{t:this.usaFlagD},{t:this.text_7},{t:this.text_6},{t:this.everydaydress},{t:this.everydaydress_expl},{t:this.text_5},{t:this.text_4},{t:this.text_3},{t:this.text_2},{t:this.text_1},{t:this.text},{t:this.regularEx2},{t:this.boldEx2},{t:this.italyTXT},{t:this.australiaTXT},{t:this.usaTXT},{t:this.brazilTXT},{t:this.germanyTXT},{t:this.southafricaTXT},{t:this.indiaTXT},{t:this.greeceTXT},{t:this.japanTXT},{t:this.israelTXT},{t:this.franceTXT},{t:this.canadaTXT},{t:this.chinaTXT}]}).wait(1));
 
 }).prototype = p = new cjs.MovieClip();
-p.nominalBounds = new cjs.Rectangle(565.6,389.5,803.6999999999999,375.4);
+p.nominalBounds = new cjs.Rectangle(682.8,409,686.5,355.9);
 // library properties:
 lib.properties = {
 	id: '3EA620FDB71E3B48A26B2F4E619EA149',
@@ -18452,18 +18768,19 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/_12242wecompresscom.jpg?1560002333702", id:"_12242wecompresscom"},
-		{src:"images/_1232wecompresscom.jpg?1560002333702", id:"_1232wecompresscom"},
-		{src:"images/_3333wecompresscom.jpg?1560002333702", id:"_3333wecompresscom"},
-		{src:"images/CachedTexturedBitmap_1.png?1560002333702", id:"CachedTexturedBitmap_1"},
-		{src:"images/CachedTexturedBitmap_1256.png?1560002333702", id:"CachedTexturedBitmap_1256"},
-		{src:"images/reallyfinal_atlas_.png?1560002333218", id:"reallyfinal_atlas_"},
-		{src:"images/reallyfinal_atlas_2.png?1560002333218", id:"reallyfinal_atlas_2"},
-		{src:"images/reallyfinal_atlas_3.png?1560002333219", id:"reallyfinal_atlas_3"},
-		{src:"images/reallyfinal_atlas_4.png?1560002333219", id:"reallyfinal_atlas_4"},
-		{src:"images/reallyfinal_atlas_5.png?1560002333219", id:"reallyfinal_atlas_5"},
-		{src:"images/reallyfinal_atlas_6.png?1560002333219", id:"reallyfinal_atlas_6"},
-		{src:"images/reallyfinal_atlas_7.png?1560002333230", id:"reallyfinal_atlas_7"}
+		{src:"images/_12242wecompresscom.jpg?1560010507053", id:"_12242wecompresscom"},
+		{src:"images/_1232wecompresscom.jpg?1560010507053", id:"_1232wecompresscom"},
+		{src:"images/_3333wecompresscom.jpg?1560010507053", id:"_3333wecompresscom"},
+		{src:"images/CachedTexturedBitmap_1256.png?1560010507053", id:"CachedTexturedBitmap_1256"},
+		{src:"images/CachedTexturedBitmap_1709.png?1560010507054", id:"CachedTexturedBitmap_1709"},
+		{src:"images/reallyfinal_atlas_.png?1560010506628", id:"reallyfinal_atlas_"},
+		{src:"images/reallyfinal_atlas_2.png?1560010506629", id:"reallyfinal_atlas_2"},
+		{src:"images/reallyfinal_atlas_3.png?1560010506629", id:"reallyfinal_atlas_3"},
+		{src:"images/reallyfinal_atlas_4.png?1560010506629", id:"reallyfinal_atlas_4"},
+		{src:"images/reallyfinal_atlas_5.png?1560010506629", id:"reallyfinal_atlas_5"},
+		{src:"images/reallyfinal_atlas_6.png?1560010506630", id:"reallyfinal_atlas_6"},
+		{src:"images/reallyfinal_atlas_7.png?1560010506633", id:"reallyfinal_atlas_7"},
+		{src:"images/reallyfinal_atlas_8.png?1560010506639", id:"reallyfinal_atlas_8"}
 	],
 	preloads: []
 };
